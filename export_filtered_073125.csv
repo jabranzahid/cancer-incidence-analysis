@@ -1,0 +1,1261 @@
+"Site","Age","Sex","Incidence","SE","LowerCI","UpperCI","Count","Population"
+"Lung adenocarcinoma","00 years","Male and female","0.014","0.006","0.005","0.03",6,43061201
+"Lung adenocarcinoma","00 years","Male","0.005","0.005","0","0.025",1,22011981
+"Lung adenocarcinoma","00 years","Female","0.024","0.011","0.008","0.055",5,21049220
+"Lung adenocarcinoma","01-04 years","Male and female","0","~","0","0.002",0,172923682
+"Lung adenocarcinoma","01-04 years","Male","0","~","0","0.004",0,88392817
+"Lung adenocarcinoma","01-04 years","Female","0","~","0","0.004",0,84530865
+"Lung adenocarcinoma","05-09 years","Male and female","0.002","0.001","0","0.005",4,219155625
+"Lung adenocarcinoma","05-09 years","Male","0.002","0.001","0","0.006",2,112012583
+"Lung adenocarcinoma","05-09 years","Female","0.002","0.001","0","0.007",2,107143042
+"Lung adenocarcinoma","10-14 years","Male and female","0.005","0.001","0.002","0.009",11,228557404
+"Lung adenocarcinoma","10-14 years","Male","0.004","0.002","0.001","0.01",5,116939349
+"Lung adenocarcinoma","10-14 years","Female","0.005","0.002","0.002","0.012",6,111618055
+"Lung adenocarcinoma","15-19 years","Male and female","0.015","0.003","0.011","0.021",35,229160336
+"Lung adenocarcinoma","15-19 years","Male","0.014","0.003","0.008","0.022",16,117683875
+"Lung adenocarcinoma","15-19 years","Female","0.017","0.004","0.01","0.027",19,111476461
+"Lung adenocarcinoma","20-24 years","Male and female","0.063","0.005","0.053","0.074",145,229290703
+"Lung adenocarcinoma","20-24 years","Male","0.064","0.007","0.05","0.08",75,117600125
+"Lung adenocarcinoma","20-24 years","Female","0.063","0.007","0.049","0.079",70,111690578
+"Lung adenocarcinoma","25-29 years","Male and female","0.178","0.009","0.161","0.196",412,231301985
+"Lung adenocarcinoma","25-29 years","Male","0.15","0.011","0.129","0.174",176,117171061
+"Lung adenocarcinoma","25-29 years","Female","0.207","0.013","0.181","0.235",236,114130924
+"Lung adenocarcinoma","30-34 years","Male and female","0.501","0.015","0.473","0.531",1153,230073908
+"Lung adenocarcinoma","30-34 years","Male","0.471","0.02","0.432","0.512",546,115938128
+"Lung adenocarcinoma","30-34 years","Female","0.532","0.022","0.49","0.576",607,114135780
+"Lung adenocarcinoma","35-39 years","Male and female","1.29","0.024","1.244","1.337",2951,228762701
+"Lung adenocarcinoma","35-39 years","Male","1.11","0.031","1.05","1.172",1273,114709436
+"Lung adenocarcinoma","35-39 years","Female","1.471","0.036","1.402","1.543",1678,114053265
+"Lung adenocarcinoma","40-44 years","Male and female","3.716","0.04","3.637","3.796",8471,227960237
+"Lung adenocarcinoma","40-44 years","Male","3.214","0.053","3.11","3.32",3652,113631501
+"Lung adenocarcinoma","40-44 years","Female","4.215","0.061","4.097","4.336",4819,114328736
+"Lung adenocarcinoma","45-49 years","Male and female","8.976","0.063","8.853","9.101",20195,224982270
+"Lung adenocarcinoma","45-49 years","Male","7.942","0.084","7.778","8.109",8865,111622077
+"Lung adenocarcinoma","45-49 years","Female","9.995","0.094","9.811","10.18",11330,113360193
+"Lung adenocarcinoma","50-54 years","Male and female","18.872","0.093","18.69","19.056",40909,216770042
+"Lung adenocarcinoma","50-54 years","Male","17.88","0.129","17.627","18.135",19105,106853315
+"Lung adenocarcinoma","50-54 years","Female","19.837","0.134","19.574","20.102",21804,109916727
+"Lung adenocarcinoma","55-59 years","Male and female","35.06","0.133","34.799","35.323",69131,197177690
+"Lung adenocarcinoma","55-59 years","Male","34.834","0.19","34.462","35.209",33500,96171628
+"Lung adenocarcinoma","55-59 years","Female","35.276","0.187","34.911","35.644",35631,101006062
+"Lung adenocarcinoma","60-64 years","Male and female","57.881","0.187","57.516","58.248",96152,166118894
+"Lung adenocarcinoma","60-64 years","Male","59.746","0.273","59.211","60.285",47735,79896239
+"Lung adenocarcinoma","60-64 years","Female","56.153","0.255","55.654","56.656",48417,86222655
+"Lung adenocarcinoma","65-69 years","Male and female","88.467","0.258","87.961","88.974",117352,132650888
+"Lung adenocarcinoma","65-69 years","Male","93.216","0.387","92.46","93.977",58154,62386128
+"Lung adenocarcinoma","65-69 years","Female","84.25","0.346","83.573","84.931",59198,70264760
+"Lung adenocarcinoma","70-74 years","Male and female","118.099","0.339","117.436","118.765",121630,102989851
+"Lung adenocarcinoma","70-74 years","Male","128.518","0.524","127.494","129.548",60261,46889081
+"Lung adenocarcinoma","70-74 years","Female","109.391","0.442","108.527","110.26",61369,56100770
+"Lung adenocarcinoma","75-79 years","Male and female","142.156","0.429","141.316","143",109630,77119602
+"Lung adenocarcinoma","75-79 years","Male","159.76","0.692","158.407","161.122",53335,33384419
+"Lung adenocarcinoma","75-79 years","Female","128.718","0.543","127.657","129.786",56295,43735183
+"Lung adenocarcinoma","80-84 years","Male and female","139.541","0.504","138.554","140.533",76544,54854210
+"Lung adenocarcinoma","80-84 years","Male","165.958","0.869","164.26","167.669",36499,21992919
+"Lung adenocarcinoma","80-84 years","Female","121.861","0.609","120.67","123.06",40045,32861291
+"Lung adenocarcinoma","85-89 years","Male and female","111.562","0.581","110.426","112.707",36859,33038957
+"Lung adenocarcinoma","85-89 years","Male","141.005","1.093","138.872","143.163",16653,11810198
+"Lung adenocarcinoma","85-89 years","Female","95.182","0.67","93.874","96.504",20206,21228759
+"Lung adenocarcinoma","90+ years","Male and female","59.776","0.555","58.694","60.873",11619,19437568
+"Lung adenocarcinoma","90+ years","Male","84.971","1.23","82.578","87.416",4774,5618381
+"Lung adenocarcinoma","90+ years","Female","49.533","0.599","48.366","50.72",6845,13819187
+"Lung adenocarcinoma","Unknown","Male and female","~","~","~","~",0,0
+"Lung adenocarcinoma","Unknown","Male","~","~","~","~",0,0
+"Lung adenocarcinoma","Unknown","Female","~","~","~","~",0,0
+"Lung squamous cell carcinoma","00 years","Male and female","0","~","0","0.009",0,43061201
+"Lung squamous cell carcinoma","00 years","Male","0","~","0","0.017",0,22011981
+"Lung squamous cell carcinoma","00 years","Female","0","~","0","0.018",0,21049220
+"Lung squamous cell carcinoma","01-04 years","Male and female","0","~","0","0.002",0,172923682
+"Lung squamous cell carcinoma","01-04 years","Male","0","~","0","0.004",0,88392817
+"Lung squamous cell carcinoma","01-04 years","Female","0","~","0","0.004",0,84530865
+"Lung squamous cell carcinoma","05-09 years","Male and female","0","0","0","0.003",1,219155625
+"Lung squamous cell carcinoma","05-09 years","Male","0","~","0","0.003",0,112012583
+"Lung squamous cell carcinoma","05-09 years","Female","0.001","0.001","0","0.005",1,107143042
+"Lung squamous cell carcinoma","10-14 years","Male and female","0.001","0.001","0","0.004",3,228557404
+"Lung squamous cell carcinoma","10-14 years","Male","0.001","0.001","0","0.005",1,116939349
+"Lung squamous cell carcinoma","10-14 years","Female","0.002","0.001","0","0.006",2,111618055
+"Lung squamous cell carcinoma","15-19 years","Male and female","0.008","0.002","0.005","0.013",19,229160336
+"Lung squamous cell carcinoma","15-19 years","Male","0.009","0.003","0.005","0.017",11,117683875
+"Lung squamous cell carcinoma","15-19 years","Female","0.007","0.003","0.003","0.014",8,111476461
+"Lung squamous cell carcinoma","20-24 years","Male and female","0.014","0.002","0.01","0.02",32,229290703
+"Lung squamous cell carcinoma","20-24 years","Male","0.016","0.004","0.01","0.025",19,117600125
+"Lung squamous cell carcinoma","20-24 years","Female","0.012","0.003","0.006","0.02",13,111690578
+"Lung squamous cell carcinoma","25-29 years","Male and female","0.029","0.004","0.023","0.037",68,231301985
+"Lung squamous cell carcinoma","25-29 years","Male","0.036","0.006","0.026","0.048",42,117171061
+"Lung squamous cell carcinoma","25-29 years","Female","0.023","0.004","0.015","0.033",26,114130924
+"Lung squamous cell carcinoma","30-34 years","Male and female","0.067","0.005","0.057","0.079",155,230073908
+"Lung squamous cell carcinoma","30-34 years","Male","0.075","0.008","0.06","0.093",87,115938128
+"Lung squamous cell carcinoma","30-34 years","Female","0.06","0.007","0.046","0.076",68,114135780
+"Lung squamous cell carcinoma","35-39 years","Male and female","0.217","0.01","0.198","0.237",496,228762701
+"Lung squamous cell carcinoma","35-39 years","Male","0.262","0.015","0.234","0.294",301,114709436
+"Lung squamous cell carcinoma","35-39 years","Female","0.171","0.012","0.148","0.197",195,114053265
+"Lung squamous cell carcinoma","40-44 years","Male and female","0.9","0.02","0.861","0.94",2051,227960237
+"Lung squamous cell carcinoma","40-44 years","Male","1.167","0.032","1.105","1.231",1326,113631501
+"Lung squamous cell carcinoma","40-44 years","Female","0.634","0.024","0.589","0.682",725,114328736
+"Lung squamous cell carcinoma","45-49 years","Male and female","2.656","0.034","2.589","2.724",5976,224982270
+"Lung squamous cell carcinoma","45-49 years","Male","3.56","0.056","3.45","3.673",3974,111622077
+"Lung squamous cell carcinoma","45-49 years","Female","1.766","0.039","1.69","1.845",2002,113360193
+"Lung squamous cell carcinoma","50-54 years","Male and female","6.717","0.056","6.609","6.827",14561,216770042
+"Lung squamous cell carcinoma","50-54 years","Male","9.245","0.093","9.064","9.43",9879,106853315
+"Lung squamous cell carcinoma","50-54 years","Female","4.26","0.062","4.138","4.383",4682,109916727
+"Lung squamous cell carcinoma","55-59 years","Male and female","14.93","0.087","14.76","15.102",29439,197177690
+"Lung squamous cell carcinoma","55-59 years","Male","20.692","0.147","20.406","20.982",19900,96171628
+"Lung squamous cell carcinoma","55-59 years","Female","9.444","0.097","9.255","9.635",9539,101006062
+"Lung squamous cell carcinoma","60-64 years","Male and female","29.338","0.133","29.078","29.6",48736,166118894
+"Lung squamous cell carcinoma","60-64 years","Male","40.278","0.225","39.84","40.721",32181,79896239
+"Lung squamous cell carcinoma","60-64 years","Female","19.2","0.149","18.909","19.495",16555,86222655
+"Lung squamous cell carcinoma","65-69 years","Male and female","51.236","0.197","50.852","51.623",67965,132650888
+"Lung squamous cell carcinoma","65-69 years","Male","69.677","0.334","69.024","70.335",43469,62386128
+"Lung squamous cell carcinoma","65-69 years","Female","34.862","0.223","34.427","35.302",24496,70264760
+"Lung squamous cell carcinoma","70-74 years","Male and female","74.27","0.269","73.745","74.799",76491,102989851
+"Lung squamous cell carcinoma","70-74 years","Male","100.68","0.463","99.774","101.593",47208,46889081
+"Lung squamous cell carcinoma","70-74 years","Female","52.197","0.305","51.601","52.798",29283,56100770
+"Lung squamous cell carcinoma","75-79 years","Male and female","90.269","0.342","89.6","90.942",69615,77119602
+"Lung squamous cell carcinoma","75-79 years","Male","126.245","0.615","125.042","127.456",42146,33384419
+"Lung squamous cell carcinoma","75-79 years","Female","62.808","0.379","62.067","63.555",27469,43735183
+"Lung squamous cell carcinoma","80-84 years","Male and female","82.796","0.389","82.036","83.561",45417,54854210
+"Lung squamous cell carcinoma","80-84 years","Male","123.308","0.749","121.845","124.784",27119,21992919
+"Lung squamous cell carcinoma","80-84 years","Female","55.683","0.412","54.879","56.495",18298,32861291
+"Lung squamous cell carcinoma","85-89 years","Male and female","58.195","0.42","57.375","59.023",19227,33038957
+"Lung squamous cell carcinoma","85-89 years","Male","96.197","0.903","94.436","97.982",11361,11810198
+"Lung squamous cell carcinoma","85-89 years","Female","37.054","0.418","36.239","37.882",7866,21228759
+"Lung squamous cell carcinoma","90+ years","Male and female","22.565","0.341","21.902","23.242",4386,19437568
+"Lung squamous cell carcinoma","90+ years","Male","45.618","0.901","43.869","47.419",2563,5618381
+"Lung squamous cell carcinoma","90+ years","Female","13.192","0.309","12.593","13.812",1823,13819187
+"Lung squamous cell carcinoma","Unknown","Male and female","~","~","~","~",0,0
+"Lung squamous cell carcinoma","Unknown","Male","~","~","~","~",0,0
+"Lung squamous cell carcinoma","Unknown","Female","~","~","~","~",0,0
+"Small cell lung carcinoma","00 years","Male and female","0.002","0.002","0","0.013",1,43061201
+"Small cell lung carcinoma","00 years","Male","0.005","0.005","0","0.025",1,22011981
+"Small cell lung carcinoma","00 years","Female","0","~","0","0.018",0,21049220
+"Small cell lung carcinoma","01-04 years","Male and female","0","~","0","0.002",0,172923682
+"Small cell lung carcinoma","01-04 years","Male","0","~","0","0.004",0,88392817
+"Small cell lung carcinoma","01-04 years","Female","0","~","0","0.004",0,84530865
+"Small cell lung carcinoma","05-09 years","Male and female","0","0","0","0.003",1,219155625
+"Small cell lung carcinoma","05-09 years","Male","0","~","0","0.003",0,112012583
+"Small cell lung carcinoma","05-09 years","Female","0.001","0.001","0","0.005",1,107143042
+"Small cell lung carcinoma","10-14 years","Male and female","0.001","0.001","0","0.004",3,228557404
+"Small cell lung carcinoma","10-14 years","Male","0.003","0.001","0.001","0.007",3,116939349
+"Small cell lung carcinoma","10-14 years","Female","0","~","0","0.003",0,111618055
+"Small cell lung carcinoma","15-19 years","Male and female","0.002","0.001","0","0.004",4,229160336
+"Small cell lung carcinoma","15-19 years","Male","0.003","0.001","0.001","0.007",3,117683875
+"Small cell lung carcinoma","15-19 years","Female","0.001","0.001","0","0.005",1,111476461
+"Small cell lung carcinoma","20-24 years","Male and female","0.012","0.002","0.008","0.018",28,229290703
+"Small cell lung carcinoma","20-24 years","Male","0.01","0.003","0.005","0.018",12,117600125
+"Small cell lung carcinoma","20-24 years","Female","0.014","0.004","0.008","0.023",16,111690578
+"Small cell lung carcinoma","25-29 years","Male and female","0.018","0.003","0.013","0.024",41,231301985
+"Small cell lung carcinoma","25-29 years","Male","0.02","0.004","0.012","0.029",23,117171061
+"Small cell lung carcinoma","25-29 years","Female","0.016","0.004","0.009","0.025",18,114130924
+"Small cell lung carcinoma","30-34 years","Male and female","0.057","0.005","0.048","0.068",131,230073908
+"Small cell lung carcinoma","30-34 years","Male","0.067","0.008","0.053","0.084",78,115938128
+"Small cell lung carcinoma","30-34 years","Female","0.046","0.006","0.035","0.061",53,114135780
+"Small cell lung carcinoma","35-39 years","Male and female","0.219","0.01","0.201","0.24",502,228762701
+"Small cell lung carcinoma","35-39 years","Male","0.231","0.014","0.204","0.261",265,114709436
+"Small cell lung carcinoma","35-39 years","Female","0.208","0.013","0.182","0.236",237,114053265
+"Small cell lung carcinoma","40-44 years","Male and female","0.885","0.02","0.847","0.925",2018,227960237
+"Small cell lung carcinoma","40-44 years","Male","0.888","0.028","0.834","0.944",1009,113631501
+"Small cell lung carcinoma","40-44 years","Female","0.883","0.028","0.829","0.939",1009,114328736
+"Small cell lung carcinoma","45-49 years","Male and female","2.73","0.035","2.662","2.799",6142,224982270
+"Small cell lung carcinoma","45-49 years","Male","2.739","0.05","2.642","2.838",3057,111622077
+"Small cell lung carcinoma","45-49 years","Female","2.721","0.049","2.626","2.819",3085,113360193
+"Small cell lung carcinoma","50-54 years","Male and female","6.486","0.055","6.379","6.594",14059,216770042
+"Small cell lung carcinoma","50-54 years","Male","6.587","0.079","6.434","6.742",7038,106853315
+"Small cell lung carcinoma","50-54 years","Female","6.388","0.076","6.239","6.539",7021,109916727
+"Small cell lung carcinoma","55-59 years","Male and female","13.087","0.081","12.927","13.247",25804,197177690
+"Small cell lung carcinoma","55-59 years","Male","13.458","0.118","13.227","13.692",12943,96171628
+"Small cell lung carcinoma","55-59 years","Female","12.733","0.112","12.514","12.955",12861,101006062
+"Small cell lung carcinoma","60-64 years","Male and female","22.05","0.115","21.825","22.277",36630,166118894
+"Small cell lung carcinoma","60-64 years","Male","23.032","0.17","22.701","23.368",18402,79896239
+"Small cell lung carcinoma","60-64 years","Female","21.141","0.157","20.835","21.45",18228,86222655
+"Small cell lung carcinoma","65-69 years","Male and female","32.768","0.157","32.461","33.077",43467,132650888
+"Small cell lung carcinoma","65-69 years","Male","34.928","0.237","34.465","35.395",21790,62386128
+"Small cell lung carcinoma","65-69 years","Female","30.85","0.21","30.441","31.264",21677,70264760
+"Small cell lung carcinoma","70-74 years","Male and female","41.719","0.201","41.325","42.115",42966,102989851
+"Small cell lung carcinoma","70-74 years","Male","45.603","0.312","44.994","46.219",21383,46889081
+"Small cell lung carcinoma","70-74 years","Female","38.472","0.262","37.96","38.989",21583,56100770
+"Small cell lung carcinoma","75-79 years","Male and female","44.987","0.242","44.515","45.463",34694,77119602
+"Small cell lung carcinoma","75-79 years","Male","51.198","0.392","50.433","51.971",17092,33384419
+"Small cell lung carcinoma","75-79 years","Female","40.247","0.303","39.654","40.846",17602,43735183
+"Small cell lung carcinoma","80-84 years","Male and female","37.175","0.26","36.666","37.689",20392,54854210
+"Small cell lung carcinoma","80-84 years","Male","46.447","0.46","45.55","47.356",10215,21992919
+"Small cell lung carcinoma","80-84 years","Female","30.97","0.307","30.371","31.577",10177,32861291
+"Small cell lung carcinoma","85-89 years","Male and female","24.202","0.271","23.674","24.738",7996,33038957
+"Small cell lung carcinoma","85-89 years","Male","34.496","0.54","33.444","35.571",4074,11810198
+"Small cell lung carcinoma","85-89 years","Female","18.475","0.295","17.901","19.062",3922,21228759
+"Small cell lung carcinoma","90+ years","Male and female","8.859","0.213","8.446","9.288",1722,19437568
+"Small cell lung carcinoma","90+ years","Male","15.876","0.532","14.852","16.953",892,5618381
+"Small cell lung carcinoma","90+ years","Female","6.006","0.208","5.604","6.429",830,13819187
+"Small cell lung carcinoma","Unknown","Male and female","~","~","~","~",0,0
+"Small cell lung carcinoma","Unknown","Male","~","~","~","~",0,0
+"Small cell lung carcinoma","Unknown","Female","~","~","~","~",0,0
+"Colorectal adenocarcinoma (MSS)","00 years","Male and female","0.002","0.002","0","0.013",1,43061201
+"Colorectal adenocarcinoma (MSS)","00 years","Male","0.005","0.005","0","0.025",1,22011981
+"Colorectal adenocarcinoma (MSS)","00 years","Female","0","~","0","0.018",0,21049220
+"Colorectal adenocarcinoma (MSS)","01-04 years","Male and female","0","~","0","0.002",0,172923682
+"Colorectal adenocarcinoma (MSS)","01-04 years","Male","0","~","0","0.004",0,88392817
+"Colorectal adenocarcinoma (MSS)","01-04 years","Female","0","~","0","0.004",0,84530865
+"Colorectal adenocarcinoma (MSS)","05-09 years","Male and female","0.002","0.001","0","0.005",4,219155625
+"Colorectal adenocarcinoma (MSS)","05-09 years","Male","0.003","0.002","0.001","0.008",3,112012583
+"Colorectal adenocarcinoma (MSS)","05-09 years","Female","0.001","0.001","0","0.005",1,107143042
+"Colorectal adenocarcinoma (MSS)","10-14 years","Male and female","0.023","0.003","0.017","0.03",53,228557404
+"Colorectal adenocarcinoma (MSS)","10-14 years","Male","0.025","0.005","0.017","0.036",29,116939349
+"Colorectal adenocarcinoma (MSS)","10-14 years","Female","0.022","0.004","0.014","0.032",24,111618055
+"Colorectal adenocarcinoma (MSS)","15-19 years","Male and female","0.152","0.008","0.137","0.169",349,229160336
+"Colorectal adenocarcinoma (MSS)","15-19 years","Male","0.176","0.012","0.153","0.202",207,117683875
+"Colorectal adenocarcinoma (MSS)","15-19 years","Female","0.127","0.011","0.107","0.15",142,111476461
+"Colorectal adenocarcinoma (MSS)","20-24 years","Male and female","0.617","0.016","0.585","0.65",1414,229290703
+"Colorectal adenocarcinoma (MSS)","20-24 years","Male","0.656","0.024","0.611","0.704",772,117600125
+"Colorectal adenocarcinoma (MSS)","20-24 years","Female","0.575","0.023","0.531","0.621",642,111690578
+"Colorectal adenocarcinoma (MSS)","25-29 years","Male and female","1.722","0.027","1.669","1.777",3984,231301985
+"Colorectal adenocarcinoma (MSS)","25-29 years","Male","1.791","0.039","1.715","1.869",2098,117171061
+"Colorectal adenocarcinoma (MSS)","25-29 years","Female","1.652","0.038","1.579","1.729",1886,114130924
+"Colorectal adenocarcinoma (MSS)","30-34 years","Male and female","3.97","0.042","3.889","4.052",9133,230073908
+"Colorectal adenocarcinoma (MSS)","30-34 years","Male","4.19","0.06","4.073","4.31",4858,115938128
+"Colorectal adenocarcinoma (MSS)","30-34 years","Female","3.746","0.057","3.634","3.86",4275,114135780
+"Colorectal adenocarcinoma (MSS)","35-39 years","Male and female","8.001","0.059","7.885","8.118",18303,228762701
+"Colorectal adenocarcinoma (MSS)","35-39 years","Male","8.42","0.086","8.253","8.59",9659,114709436
+"Colorectal adenocarcinoma (MSS)","35-39 years","Female","7.579","0.082","7.42","7.74",8644,114053265
+"Colorectal adenocarcinoma (MSS)","40-44 years","Male and female","15.086","0.081","14.927","15.246",34389,227960237
+"Colorectal adenocarcinoma (MSS)","40-44 years","Male","16.093","0.119","15.861","16.328",18287,113631501
+"Colorectal adenocarcinoma (MSS)","40-44 years","Female","14.084","0.111","13.867","14.303",16102,114328736
+"Colorectal adenocarcinoma (MSS)","45-49 years","Male and female","27.972","0.112","27.754","28.192",62933,224982270
+"Colorectal adenocarcinoma (MSS)","45-49 years","Male","30.829","0.166","30.504","31.157",34412,111622077
+"Colorectal adenocarcinoma (MSS)","45-49 years","Female","25.16","0.149","24.868","25.453",28521,113360193
+"Colorectal adenocarcinoma (MSS)","50-54 years","Male and female","49.726","0.151","49.43","50.024",107792,216770042
+"Colorectal adenocarcinoma (MSS)","50-54 years","Male","56.851","0.231","56.4","57.305",60747,106853315
+"Colorectal adenocarcinoma (MSS)","50-54 years","Female","42.801","0.197","42.415","43.189",47045,109916727
+"Colorectal adenocarcinoma (MSS)","55-59 years","Male and female","63.197","0.179","62.846","63.549",124610,197177690
+"Colorectal adenocarcinoma (MSS)","55-59 years","Male","76.049","0.281","75.499","76.603",73138,96171628
+"Colorectal adenocarcinoma (MSS)","55-59 years","Female","50.959","0.225","50.52","51.401",51472,101006062
+"Colorectal adenocarcinoma (MSS)","60-64 years","Male and female","87.818","0.23","87.368","88.27",145882,166118894
+"Colorectal adenocarcinoma (MSS)","60-64 years","Male","107.625","0.367","106.906","108.346",85988,79896239
+"Colorectal adenocarcinoma (MSS)","60-64 years","Female","69.464","0.284","68.909","70.023",59894,86222655
+"Colorectal adenocarcinoma (MSS)","65-69 years","Male and female","123.727","0.305","123.129","124.327",164125,132650888
+"Colorectal adenocarcinoma (MSS)","65-69 years","Male","150.838","0.492","149.876","151.805",94102,62386128
+"Colorectal adenocarcinoma (MSS)","65-69 years","Female","99.656","0.377","98.919","100.397",70023,70264760
+"Colorectal adenocarcinoma (MSS)","70-74 years","Male and female","159.428","0.393","158.658","160.201",164195,102989851
+"Colorectal adenocarcinoma (MSS)","70-74 years","Male","191.767","0.64","190.516","193.025",89918,46889081
+"Colorectal adenocarcinoma (MSS)","70-74 years","Female","132.399","0.486","131.449","133.355",74277,56100770
+"Colorectal adenocarcinoma (MSS)","75-79 years","Male and female","206.369","0.517","205.356","207.385",159151,77119602
+"Colorectal adenocarcinoma (MSS)","75-79 years","Male","242.149","0.852","240.482","243.824",80840,33384419
+"Colorectal adenocarcinoma (MSS)","75-79 years","Female","179.057","0.64","177.805","180.316",78311,43735183
+"Colorectal adenocarcinoma (MSS)","80-84 years","Male and female","250.464","0.676","249.141","251.792",137390,54854210
+"Colorectal adenocarcinoma (MSS)","80-84 years","Male","287.388","1.143","285.152","289.637",63205,21992919
+"Colorectal adenocarcinoma (MSS)","80-84 years","Female","225.752","0.829","224.13","227.382",74185,32861291
+"Colorectal adenocarcinoma (MSS)","85-89 years","Male and female","276.089","0.914","274.3","277.887",91217,33038957
+"Colorectal adenocarcinoma (MSS)","85-89 years","Male","312.459","1.627","309.279","315.663",36902,11810198
+"Colorectal adenocarcinoma (MSS)","85-89 years","Female","255.856","1.098","253.709","258.017",54315,21228759
+"Colorectal adenocarcinoma (MSS)","90+ years","Male and female","221.02","1.066","218.935","223.12",42961,19437568
+"Colorectal adenocarcinoma (MSS)","90+ years","Male","265.415","2.173","261.171","269.709",14912,5618381
+"Colorectal adenocarcinoma (MSS)","90+ years","Female","202.971","1.212","200.603","205.361",28049,13819187
+"Colorectal adenocarcinoma (MSS)","Unknown","Male and female","~","~","~","~",0,0
+"Colorectal adenocarcinoma (MSS)","Unknown","Male","~","~","~","~",0,0
+"Colorectal adenocarcinoma (MSS)","Unknown","Female","~","~","~","~",0,0
+"Colorectal carcinoma (MSI-high, medullary subtype)","00 years","Male and female","0","~","0","0.009",0,43061201
+"Colorectal carcinoma (MSI-high, medullary subtype)","00 years","Male","0","~","0","0.017",0,22011981
+"Colorectal carcinoma (MSI-high, medullary subtype)","00 years","Female","0","~","0","0.018",0,21049220
+"Colorectal carcinoma (MSI-high, medullary subtype)","01-04 years","Male and female","0","~","0","0.002",0,172923682
+"Colorectal carcinoma (MSI-high, medullary subtype)","01-04 years","Male","0","~","0","0.004",0,88392817
+"Colorectal carcinoma (MSI-high, medullary subtype)","01-04 years","Female","0","~","0","0.004",0,84530865
+"Colorectal carcinoma (MSI-high, medullary subtype)","05-09 years","Male and female","0","~","0","0.002",0,219155625
+"Colorectal carcinoma (MSI-high, medullary subtype)","05-09 years","Male","0","~","0","0.003",0,112012583
+"Colorectal carcinoma (MSI-high, medullary subtype)","05-09 years","Female","0","~","0","0.003",0,107143042
+"Colorectal carcinoma (MSI-high, medullary subtype)","10-14 years","Male and female","0","~","0","0.002",0,228557404
+"Colorectal carcinoma (MSI-high, medullary subtype)","10-14 years","Male","0","~","0","0.003",0,116939349
+"Colorectal carcinoma (MSI-high, medullary subtype)","10-14 years","Female","0","~","0","0.003",0,111618055
+"Colorectal carcinoma (MSI-high, medullary subtype)","15-19 years","Male and female","0","0","0","0.002",1,229160336
+"Colorectal carcinoma (MSI-high, medullary subtype)","15-19 years","Male","0","~","0","0.003",0,117683875
+"Colorectal carcinoma (MSI-high, medullary subtype)","15-19 years","Female","0.001","0.001","0","0.005",1,111476461
+"Colorectal carcinoma (MSI-high, medullary subtype)","20-24 years","Male and female","0","0","0","0.002",1,229290703
+"Colorectal carcinoma (MSI-high, medullary subtype)","20-24 years","Male","0","~","0","0.003",0,117600125
+"Colorectal carcinoma (MSI-high, medullary subtype)","20-24 years","Female","0.001","0.001","0","0.005",1,111690578
+"Colorectal carcinoma (MSI-high, medullary subtype)","25-29 years","Male and female","0.006","0.002","0.003","0.01",13,231301985
+"Colorectal carcinoma (MSI-high, medullary subtype)","25-29 years","Male","0.007","0.002","0.003","0.013",8,117171061
+"Colorectal carcinoma (MSI-high, medullary subtype)","25-29 years","Female","0.004","0.002","0.001","0.01",5,114130924
+"Colorectal carcinoma (MSI-high, medullary subtype)","30-34 years","Male and female","0.01","0.002","0.007","0.016",24,230073908
+"Colorectal carcinoma (MSI-high, medullary subtype)","30-34 years","Male","0.01","0.003","0.005","0.018",12,115938128
+"Colorectal carcinoma (MSI-high, medullary subtype)","30-34 years","Female","0.011","0.003","0.005","0.018",12,114135780
+"Colorectal carcinoma (MSI-high, medullary subtype)","35-39 years","Male and female","0.014","0.002","0.01","0.02",32,228762701
+"Colorectal carcinoma (MSI-high, medullary subtype)","35-39 years","Male","0.02","0.004","0.013","0.03",23,114709436
+"Colorectal carcinoma (MSI-high, medullary subtype)","35-39 years","Female","0.008","0.003","0.004","0.015",9,114053265
+"Colorectal carcinoma (MSI-high, medullary subtype)","40-44 years","Male and female","0.013","0.002","0.009","0.019",30,227960237
+"Colorectal carcinoma (MSI-high, medullary subtype)","40-44 years","Male","0.016","0.004","0.009","0.025",18,113631501
+"Colorectal carcinoma (MSI-high, medullary subtype)","40-44 years","Female","0.01","0.003","0.005","0.018",12,114328736
+"Colorectal carcinoma (MSI-high, medullary subtype)","45-49 years","Male and female","0.025","0.003","0.019","0.033",57,224982270
+"Colorectal carcinoma (MSI-high, medullary subtype)","45-49 years","Male","0.027","0.005","0.018","0.038",30,111622077
+"Colorectal carcinoma (MSI-high, medullary subtype)","45-49 years","Female","0.024","0.005","0.016","0.035",27,113360193
+"Colorectal carcinoma (MSI-high, medullary subtype)","50-54 years","Male and female","0.031","0.004","0.024","0.039",67,216770042
+"Colorectal carcinoma (MSI-high, medullary subtype)","50-54 years","Male","0.033","0.006","0.023","0.046",35,106853315
+"Colorectal carcinoma (MSI-high, medullary subtype)","50-54 years","Female","0.029","0.005","0.02","0.041",32,109916727
+"Colorectal carcinoma (MSI-high, medullary subtype)","55-59 years","Male and female","0.059","0.005","0.049","0.071",116,197177690
+"Colorectal carcinoma (MSI-high, medullary subtype)","55-59 years","Male","0.051","0.007","0.038","0.067",49,96171628
+"Colorectal carcinoma (MSI-high, medullary subtype)","55-59 years","Female","0.066","0.008","0.051","0.084",67,101006062
+"Colorectal carcinoma (MSI-high, medullary subtype)","60-64 years","Male and female","0.091","0.007","0.077","0.107",151,166118894
+"Colorectal carcinoma (MSI-high, medullary subtype)","60-64 years","Male","0.058","0.008","0.042","0.077",46,79896239
+"Colorectal carcinoma (MSI-high, medullary subtype)","60-64 years","Female","0.122","0.012","0.1","0.147",105,86222655
+"Colorectal carcinoma (MSI-high, medullary subtype)","65-69 years","Male and female","0.157","0.011","0.136","0.18",208,132650888
+"Colorectal carcinoma (MSI-high, medullary subtype)","65-69 years","Male","0.107","0.013","0.083","0.136",67,62386128
+"Colorectal carcinoma (MSI-high, medullary subtype)","65-69 years","Female","0.201","0.017","0.169","0.237",141,70264760
+"Colorectal carcinoma (MSI-high, medullary subtype)","70-74 years","Male and female","0.283","0.017","0.251","0.317",291,102989851
+"Colorectal carcinoma (MSI-high, medullary subtype)","70-74 years","Male","0.173","0.019","0.137","0.215",81,46889081
+"Colorectal carcinoma (MSI-high, medullary subtype)","70-74 years","Female","0.374","0.026","0.325","0.429",210,56100770
+"Colorectal carcinoma (MSI-high, medullary subtype)","75-79 years","Male and female","0.458","0.024","0.411","0.508",353,77119602
+"Colorectal carcinoma (MSI-high, medullary subtype)","75-79 years","Male","0.276","0.029","0.222","0.338",92,33384419
+"Colorectal carcinoma (MSI-high, medullary subtype)","75-79 years","Female","0.597","0.037","0.527","0.674",261,43735183
+"Colorectal carcinoma (MSI-high, medullary subtype)","80-84 years","Male and female","0.758","0.037","0.687","0.835",416,54854210
+"Colorectal carcinoma (MSI-high, medullary subtype)","80-84 years","Male","0.464","0.046","0.378","0.563",102,21992919
+"Colorectal carcinoma (MSI-high, medullary subtype)","80-84 years","Female","0.956","0.054","0.853","1.067",314,32861291
+"Colorectal carcinoma (MSI-high, medullary subtype)","85-89 years","Male and female","0.947","0.054","0.845","1.058",313,33038957
+"Colorectal carcinoma (MSI-high, medullary subtype)","85-89 years","Male","0.533","0.067","0.41","0.682",63,11810198
+"Colorectal carcinoma (MSI-high, medullary subtype)","85-89 years","Female","1.178","0.074","1.036","1.333",250,21228759
+"Colorectal carcinoma (MSI-high, medullary subtype)","90+ years","Male and female","0.849","0.066","0.724","0.989",165,19437568
+"Colorectal carcinoma (MSI-high, medullary subtype)","90+ years","Male","0.587","0.102","0.404","0.825",33,5618381
+"Colorectal carcinoma (MSI-high, medullary subtype)","90+ years","Female","0.955","0.083","0.799","1.133",132,13819187
+"Colorectal carcinoma (MSI-high, medullary subtype)","Unknown","Male and female","~","~","~","~",0,0
+"Colorectal carcinoma (MSI-high, medullary subtype)","Unknown","Male","~","~","~","~",0,0
+"Colorectal carcinoma (MSI-high, medullary subtype)","Unknown","Female","~","~","~","~",0,0
+"Gastric adenocarcinoma","00 years","Male and female","0.009","0.005","0.003","0.024",4,43061201
+"Gastric adenocarcinoma","00 years","Male","0.009","0.006","0.001","0.033",2,22011981
+"Gastric adenocarcinoma","00 years","Female","0.01","0.007","0.001","0.034",2,21049220
+"Gastric adenocarcinoma","01-04 years","Male and female","0","~","0","0.002",0,172923682
+"Gastric adenocarcinoma","01-04 years","Male","0","~","0","0.004",0,88392817
+"Gastric adenocarcinoma","01-04 years","Female","0","~","0","0.004",0,84530865
+"Gastric adenocarcinoma","05-09 years","Male and female","0","~","0","0.002",0,219155625
+"Gastric adenocarcinoma","05-09 years","Male","0","~","0","0.003",0,112012583
+"Gastric adenocarcinoma","05-09 years","Female","0","~","0","0.003",0,107143042
+"Gastric adenocarcinoma","10-14 years","Male and female","0.007","0.002","0.004","0.011",16,228557404
+"Gastric adenocarcinoma","10-14 years","Male","0.009","0.003","0.004","0.016",10,116939349
+"Gastric adenocarcinoma","10-14 years","Female","0.005","0.002","0.002","0.012",6,111618055
+"Gastric adenocarcinoma","15-19 years","Male and female","0.038","0.004","0.03","0.046",86,229160336
+"Gastric adenocarcinoma","15-19 years","Male","0.031","0.005","0.022","0.043",37,117683875
+"Gastric adenocarcinoma","15-19 years","Female","0.044","0.006","0.033","0.058",49,111476461
+"Gastric adenocarcinoma","20-24 years","Male and female","0.147","0.008","0.132","0.164",338,229290703
+"Gastric adenocarcinoma","20-24 years","Male","0.149","0.011","0.128","0.173",175,117600125
+"Gastric adenocarcinoma","20-24 years","Female","0.146","0.011","0.124","0.17",163,111690578
+"Gastric adenocarcinoma","25-29 years","Male and female","0.349","0.012","0.325","0.374",807,231301985
+"Gastric adenocarcinoma","25-29 years","Male","0.366","0.018","0.332","0.402",429,117171061
+"Gastric adenocarcinoma","25-29 years","Female","0.331","0.017","0.299","0.366",378,114130924
+"Gastric adenocarcinoma","30-34 years","Male and female","0.758","0.018","0.723","0.795",1745,230073908
+"Gastric adenocarcinoma","30-34 years","Male","0.796","0.026","0.746","0.849",923,115938128
+"Gastric adenocarcinoma","30-34 years","Female","0.72","0.025","0.672","0.771",822,114135780
+"Gastric adenocarcinoma","35-39 years","Male and female","1.349","0.024","1.301","1.397",3085,228762701
+"Gastric adenocarcinoma","35-39 years","Male","1.46","0.036","1.391","1.532",1675,114709436
+"Gastric adenocarcinoma","35-39 years","Female","1.236","0.033","1.173","1.303",1410,114053265
+"Gastric adenocarcinoma","40-44 years","Male and female","2.239","0.031","2.178","2.301",5103,227960237
+"Gastric adenocarcinoma","40-44 years","Male","2.59","0.048","2.497","2.685",2943,113631501
+"Gastric adenocarcinoma","40-44 years","Female","1.889","0.041","1.81","1.971",2160,114328736
+"Gastric adenocarcinoma","45-49 years","Male and female","3.664","0.04","3.585","3.744",8243,224982270
+"Gastric adenocarcinoma","45-49 years","Male","4.6","0.064","4.475","4.728",5135,111622077
+"Gastric adenocarcinoma","45-49 years","Female","2.742","0.049","2.646","2.84",3108,113360193
+"Gastric adenocarcinoma","50-54 years","Male and female","5.689","0.051","5.589","5.79",12331,216770042
+"Gastric adenocarcinoma","50-54 years","Male","7.583","0.084","7.419","7.75",8103,106853315
+"Gastric adenocarcinoma","50-54 years","Female","3.847","0.059","3.731","3.964",4228,109916727
+"Gastric adenocarcinoma","55-59 years","Male and female","8.424","0.065","8.297","8.553",16611,197177690
+"Gastric adenocarcinoma","55-59 years","Male","11.917","0.111","11.7","12.137",11461,96171628
+"Gastric adenocarcinoma","55-59 years","Female","5.099","0.071","4.96","5.24",5150,101006062
+"Gastric adenocarcinoma","60-64 years","Male and female","12.445","0.087","12.276","12.616",20673,166118894
+"Gastric adenocarcinoma","60-64 years","Male","18.155","0.151","17.861","18.453",14505,79896239
+"Gastric adenocarcinoma","60-64 years","Female","7.154","0.091","6.976","7.334",6168,86222655
+"Gastric adenocarcinoma","65-69 years","Male and female","17.97","0.116","17.742","18.199",23837,132650888
+"Gastric adenocarcinoma","65-69 years","Male","26.522","0.206","26.119","26.929",16546,62386128
+"Gastric adenocarcinoma","65-69 years","Female","10.376","0.122","10.14","10.617",7291,70264760
+"Gastric adenocarcinoma","70-74 years","Male and female","24.722","0.155","24.419","25.027",25461,102989851
+"Gastric adenocarcinoma","70-74 years","Male","36.303","0.278","35.759","36.852",17022,46889081
+"Gastric adenocarcinoma","70-74 years","Female","15.043","0.164","14.723","15.367",8439,56100770
+"Gastric adenocarcinoma","75-79 years","Male and female","31.884","0.203","31.487","32.285",24589,77119602
+"Gastric adenocarcinoma","75-79 years","Male","47.411","0.377","46.676","48.156",15828,33384419
+"Gastric adenocarcinoma","75-79 years","Female","20.032","0.214","19.615","20.456",8761,43735183
+"Gastric adenocarcinoma","80-84 years","Male and female","37.705","0.262","37.193","38.223",20683,54854210
+"Gastric adenocarcinoma","80-84 years","Male","55.763","0.504","54.781","56.759",12264,21992919
+"Gastric adenocarcinoma","80-84 years","Female","25.62","0.279","25.075","26.173",8419,32861291
+"Gastric adenocarcinoma","85-89 years","Male and female","41.587","0.355","40.895","42.289",13740,33038957
+"Gastric adenocarcinoma","85-89 years","Male","62.539","0.728","61.121","63.982",7386,11810198
+"Gastric adenocarcinoma","85-89 years","Female","29.931","0.375","29.2","30.676",6354,21228759
+"Gastric adenocarcinoma","90+ years","Male and female","35.756","0.429","34.92","36.606",6950,19437568
+"Gastric adenocarcinoma","90+ years","Male","55.212","0.991","53.286","57.189",3102,5618381
+"Gastric adenocarcinoma","90+ years","Female","27.845","0.449","26.972","28.739",3848,13819187
+"Gastric adenocarcinoma","Unknown","Male and female","~","~","~","~",0,0
+"Gastric adenocarcinoma","Unknown","Male","~","~","~","~",0,0
+"Gastric adenocarcinoma","Unknown","Female","~","~","~","~",0,0
+"Pancreatic adenocarcinoma","00 years","Male and female","0","~","0","0.009",0,43061201
+"Pancreatic adenocarcinoma","00 years","Male","0","~","0","0.017",0,22011981
+"Pancreatic adenocarcinoma","00 years","Female","0","~","0","0.018",0,21049220
+"Pancreatic adenocarcinoma","01-04 years","Male and female","0","~","0","0.002",0,172923682
+"Pancreatic adenocarcinoma","01-04 years","Male","0","~","0","0.004",0,88392817
+"Pancreatic adenocarcinoma","01-04 years","Female","0","~","0","0.004",0,84530865
+"Pancreatic adenocarcinoma","05-09 years","Male and female","0.001","0.001","0","0.003",2,219155625
+"Pancreatic adenocarcinoma","05-09 years","Male","0.001","0.001","0","0.005",1,112012583
+"Pancreatic adenocarcinoma","05-09 years","Female","0.001","0.001","0","0.005",1,107143042
+"Pancreatic adenocarcinoma","10-14 years","Male and female","0.001","0.001","0","0.003",2,228557404
+"Pancreatic adenocarcinoma","10-14 years","Male","0.001","0.001","0","0.005",1,116939349
+"Pancreatic adenocarcinoma","10-14 years","Female","0.001","0.001","0","0.005",1,111618055
+"Pancreatic adenocarcinoma","15-19 years","Male and female","0.006","0.002","0.003","0.01",13,229160336
+"Pancreatic adenocarcinoma","15-19 years","Male","0.006","0.002","0.002","0.012",7,117683875
+"Pancreatic adenocarcinoma","15-19 years","Female","0.005","0.002","0.002","0.012",6,111476461
+"Pancreatic adenocarcinoma","20-24 years","Male and female","0.02","0.003","0.015","0.027",47,229290703
+"Pancreatic adenocarcinoma","20-24 years","Male","0.024","0.004","0.016","0.034",28,117600125
+"Pancreatic adenocarcinoma","20-24 years","Female","0.017","0.004","0.01","0.027",19,111690578
+"Pancreatic adenocarcinoma","25-29 years","Male and female","0.054","0.005","0.045","0.064",125,231301985
+"Pancreatic adenocarcinoma","25-29 years","Male","0.06","0.007","0.047","0.075",70,117171061
+"Pancreatic adenocarcinoma","25-29 years","Female","0.048","0.006","0.036","0.063",55,114130924
+"Pancreatic adenocarcinoma","30-34 years","Male and female","0.211","0.01","0.192","0.23",485,230073908
+"Pancreatic adenocarcinoma","30-34 years","Male","0.223","0.014","0.196","0.251",258,115938128
+"Pancreatic adenocarcinoma","30-34 years","Female","0.199","0.013","0.174","0.227",227,114135780
+"Pancreatic adenocarcinoma","35-39 years","Male and female","0.62","0.016","0.588","0.653",1419,228762701
+"Pancreatic adenocarcinoma","35-39 years","Male","0.746","0.026","0.697","0.798",856,114709436
+"Pancreatic adenocarcinoma","35-39 years","Female","0.494","0.021","0.454","0.536",563,114053265
+"Pancreatic adenocarcinoma","40-44 years","Male and female","1.716","0.027","1.662","1.77",3911,227960237
+"Pancreatic adenocarcinoma","40-44 years","Male","1.963","0.042","1.883","2.047",2231,113631501
+"Pancreatic adenocarcinoma","40-44 years","Female","1.469","0.036","1.4","1.541",1680,114328736
+"Pancreatic adenocarcinoma","45-49 years","Male and female","3.982","0.042","3.9","4.065",8959,224982270
+"Pancreatic adenocarcinoma","45-49 years","Male","4.68","0.065","4.554","4.809",5224,111622077
+"Pancreatic adenocarcinoma","45-49 years","Female","3.295","0.054","3.19","3.402",3735,113360193
+"Pancreatic adenocarcinoma","50-54 years","Male and female","8.167","0.061","8.047","8.288",17704,216770042
+"Pancreatic adenocarcinoma","50-54 years","Male","9.628","0.095","9.443","9.816",10288,106853315
+"Pancreatic adenocarcinoma","50-54 years","Female","6.747","0.078","6.594","6.902",7416,109916727
+"Pancreatic adenocarcinoma","55-59 years","Male and female","14.935","0.087","14.765","15.107",29449,197177690
+"Pancreatic adenocarcinoma","55-59 years","Male","17.494","0.135","17.23","17.76",16824,96171628
+"Pancreatic adenocarcinoma","55-59 years","Female","12.499","0.111","12.282","12.719",12625,101006062
+"Pancreatic adenocarcinoma","60-64 years","Male and female","24.037","0.12","23.802","24.274",39930,166118894
+"Pancreatic adenocarcinoma","60-64 years","Male","27.901","0.187","27.536","28.27",22292,79896239
+"Pancreatic adenocarcinoma","60-64 years","Female","20.456","0.154","20.156","20.76",17638,86222655
+"Pancreatic adenocarcinoma","65-69 years","Male and female","35.672","0.164","35.351","35.995",47319,132650888
+"Pancreatic adenocarcinoma","65-69 years","Male","40.679","0.255","40.18","41.183",25378,62386128
+"Pancreatic adenocarcinoma","65-69 years","Female","31.226","0.211","30.814","31.642",21941,70264760
+"Pancreatic adenocarcinoma","70-74 years","Male and female","47.469","0.215","47.049","47.891",48888,102989851
+"Pancreatic adenocarcinoma","70-74 years","Male","53.59","0.338","52.93","54.257",25128,46889081
+"Pancreatic adenocarcinoma","70-74 years","Female","42.352","0.275","41.816","42.894",23760,56100770
+"Pancreatic adenocarcinoma","75-79 years","Male and female","57.745","0.274","57.21","58.284",44533,77119602
+"Pancreatic adenocarcinoma","75-79 years","Male","64.015","0.438","63.159","64.879",21371,33384419
+"Pancreatic adenocarcinoma","75-79 years","Female","52.96","0.348","52.28","53.646",23162,43735183
+"Pancreatic adenocarcinoma","80-84 years","Male and female","61.047","0.334","60.395","61.705",33487,54854210
+"Pancreatic adenocarcinoma","80-84 years","Male","68.608","0.559","67.518","69.712",15089,21992919
+"Pancreatic adenocarcinoma","80-84 years","Female","55.987","0.413","55.181","56.802",18398,32861291
+"Pancreatic adenocarcinoma","85-89 years","Male and female","54.415","0.406","53.622","55.216",17978,33038957
+"Pancreatic adenocarcinoma","85-89 years","Male","62.302","0.726","60.887","63.742",7358,11810198
+"Pancreatic adenocarcinoma","85-89 years","Female","50.026","0.485","49.079","50.987",10620,21228759
+"Pancreatic adenocarcinoma","90+ years","Male and female","33.075","0.413","32.272","33.894",6429,19437568
+"Pancreatic adenocarcinoma","90+ years","Male","40.385","0.848","38.741","42.082",2269,5618381
+"Pancreatic adenocarcinoma","90+ years","Female","30.103","0.467","29.195","31.032",4160,13819187
+"Pancreatic adenocarcinoma","Unknown","Male and female","~","~","~","~",0,0
+"Pancreatic adenocarcinoma","Unknown","Male","~","~","~","~",0,0
+"Pancreatic adenocarcinoma","Unknown","Female","~","~","~","~",0,0
+"Kidney clear cell carcinoma","00 years","Male and female","0.005","0.003","0.001","0.017",2,43061201
+"Kidney clear cell carcinoma","00 years","Male","0.009","0.006","0.001","0.033",2,22011981
+"Kidney clear cell carcinoma","00 years","Female","0","~","0","0.018",0,21049220
+"Kidney clear cell carcinoma","01-04 years","Male and female","0.008","0.002","0.004","0.013",13,172923682
+"Kidney clear cell carcinoma","01-04 years","Male","0.01","0.003","0.005","0.019",9,88392817
+"Kidney clear cell carcinoma","01-04 years","Female","0.005","0.002","0.001","0.012",4,84530865
+"Kidney clear cell carcinoma","05-09 years","Male and female","0.018","0.003","0.013","0.025",40,219155625
+"Kidney clear cell carcinoma","05-09 years","Male","0.014","0.004","0.008","0.023",16,112012583
+"Kidney clear cell carcinoma","05-09 years","Female","0.022","0.005","0.014","0.033",24,107143042
+"Kidney clear cell carcinoma","10-14 years","Male and female","0.039","0.004","0.031","0.048",89,228557404
+"Kidney clear cell carcinoma","10-14 years","Male","0.036","0.006","0.026","0.049",42,116939349
+"Kidney clear cell carcinoma","10-14 years","Female","0.042","0.006","0.031","0.056",47,111618055
+"Kidney clear cell carcinoma","15-19 years","Male and female","0.102","0.007","0.089","0.116",233,229160336
+"Kidney clear cell carcinoma","15-19 years","Male","0.101","0.009","0.084","0.121",119,117683875
+"Kidney clear cell carcinoma","15-19 years","Female","0.102","0.01","0.084","0.123",114,111476461
+"Kidney clear cell carcinoma","20-24 years","Male and female","0.296","0.011","0.274","0.319",679,229290703
+"Kidney clear cell carcinoma","20-24 years","Male","0.281","0.015","0.252","0.313",331,117600125
+"Kidney clear cell carcinoma","20-24 years","Female","0.312","0.017","0.28","0.346",348,111690578
+"Kidney clear cell carcinoma","25-29 years","Male and female","0.817","0.019","0.781","0.855",1890,231301985
+"Kidney clear cell carcinoma","25-29 years","Male","0.893","0.028","0.839","0.948",1046,117171061
+"Kidney clear cell carcinoma","25-29 years","Female","0.74","0.025","0.69","0.791",844,114130924
+"Kidney clear cell carcinoma","30-34 years","Male and female","1.986","0.029","1.929","2.045",4570,230073908
+"Kidney clear cell carcinoma","30-34 years","Male","2.262","0.044","2.177","2.351",2623,115938128
+"Kidney clear cell carcinoma","30-34 years","Female","1.706","0.039","1.631","1.783",1947,114135780
+"Kidney clear cell carcinoma","35-39 years","Male and female","4.062","0.042","3.98","4.146",9293,228762701
+"Kidney clear cell carcinoma","35-39 years","Male","4.993","0.066","4.864","5.124",5727,114709436
+"Kidney clear cell carcinoma","35-39 years","Female","3.127","0.052","3.025","3.231",3566,114053265
+"Kidney clear cell carcinoma","40-44 years","Male and female","7.387","0.057","7.276","7.499",16839,227960237
+"Kidney clear cell carcinoma","40-44 years","Male","9.398","0.091","9.221","9.578",10679,113631501
+"Kidney clear cell carcinoma","40-44 years","Female","5.388","0.069","5.254","5.524",6160,114328736
+"Kidney clear cell carcinoma","45-49 years","Male and female","12.04","0.073","11.897","12.184",27088,224982270
+"Kidney clear cell carcinoma","45-49 years","Male","15.664","0.118","15.432","15.897",17484,111622077
+"Kidney clear cell carcinoma","45-49 years","Female","8.472","0.086","8.304","8.643",9604,113360193
+"Kidney clear cell carcinoma","50-54 years","Male and female","18.063","0.091","17.884","18.243",39155,216770042
+"Kidney clear cell carcinoma","50-54 years","Male","23.794","0.149","23.503","24.089",25425,106853315
+"Kidney clear cell carcinoma","50-54 years","Female","12.491","0.107","12.283","12.702",13730,109916727
+"Kidney clear cell carcinoma","55-59 years","Male and female","25.65","0.114","25.427","25.875",50577,197177690
+"Kidney clear cell carcinoma","55-59 years","Male","34.132","0.188","33.763","34.503",32825,96171628
+"Kidney clear cell carcinoma","55-59 years","Female","17.575","0.132","17.318","17.836",17752,101006062
+"Kidney clear cell carcinoma","60-64 years","Male and female","34.473","0.144","34.191","34.756",57266,166118894
+"Kidney clear cell carcinoma","60-64 years","Male","46.503","0.241","46.031","46.978",37154,79896239
+"Kidney clear cell carcinoma","60-64 years","Female","23.326","0.164","23.004","23.65",20112,86222655
+"Kidney clear cell carcinoma","65-69 years","Male and female","45.042","0.184","44.681","45.404",59748,132650888
+"Kidney clear cell carcinoma","65-69 years","Male","60.816","0.312","60.206","61.431",37941,62386128
+"Kidney clear cell carcinoma","65-69 years","Female","31.035","0.21","30.625","31.45",21807,70264760
+"Kidney clear cell carcinoma","70-74 years","Male and female","49.654","0.22","49.225","50.087",51139,102989851
+"Kidney clear cell carcinoma","70-74 years","Male","67.835","0.38","67.091","68.584",31807,46889081
+"Kidney clear cell carcinoma","70-74 years","Female","34.459","0.248","33.975","34.949",19332,56100770
+"Kidney clear cell carcinoma","75-79 years","Male and female","51.123","0.257","50.62","51.63",39426,77119602
+"Kidney clear cell carcinoma","75-79 years","Male","71.3","0.462","70.397","72.211",23803,33384419
+"Kidney clear cell carcinoma","75-79 years","Female","35.722","0.286","35.164","36.286",15623,43735183
+"Kidney clear cell carcinoma","80-84 years","Male and female","46.173","0.29","45.606","46.746",25328,54854210
+"Kidney clear cell carcinoma","80-84 years","Male","66.512","0.55","65.439","67.599",14628,21992919
+"Kidney clear cell carcinoma","80-84 years","Female","32.561","0.315","31.947","33.184",10700,32861291
+"Kidney clear cell carcinoma","85-89 years","Male and female","39.768","0.347","39.091","40.454",13139,33038957
+"Kidney clear cell carcinoma","85-89 years","Male","58.839","0.706","57.464","60.239",6949,11810198
+"Kidney clear cell carcinoma","85-89 years","Female","29.159","0.371","28.437","29.894",6190,21228759
+"Kidney clear cell carcinoma","90+ years","Male and female","28.748","0.385","28","29.512",5588,19437568
+"Kidney clear cell carcinoma","90+ years","Male","46.775","0.912","45.004","48.598",2628,5618381
+"Kidney clear cell carcinoma","90+ years","Female","21.419","0.394","20.655","22.205",2960,13819187
+"Kidney clear cell carcinoma","Unknown","Male and female","~","~","~","~",0,0
+"Kidney clear cell carcinoma","Unknown","Male","~","~","~","~",0,0
+"Kidney clear cell carcinoma","Unknown","Female","~","~","~","~",0,0
+"Kidney papillary carcinoma","00 years","Male and female","0","~","0","0.009",0,43061201
+"Kidney papillary carcinoma","00 years","Male","0","~","0","0.017",0,22011981
+"Kidney papillary carcinoma","00 years","Female","0","~","0","0.018",0,21049220
+"Kidney papillary carcinoma","01-04 years","Male and female","0.001","0.001","0","0.003",1,172923682
+"Kidney papillary carcinoma","01-04 years","Male","0.001","0.001","0","0.006",1,88392817
+"Kidney papillary carcinoma","01-04 years","Female","0","~","0","0.004",0,84530865
+"Kidney papillary carcinoma","05-09 years","Male and female","0.004","0.001","0.002","0.007",8,219155625
+"Kidney papillary carcinoma","05-09 years","Male","0.005","0.002","0.002","0.012",6,112012583
+"Kidney papillary carcinoma","05-09 years","Female","0.002","0.001","0","0.007",2,107143042
+"Kidney papillary carcinoma","10-14 years","Male and female","0.008","0.002","0.005","0.013",19,228557404
+"Kidney papillary carcinoma","10-14 years","Male","0.01","0.003","0.005","0.018",12,116939349
+"Kidney papillary carcinoma","10-14 years","Female","0.006","0.002","0.003","0.013",7,111618055
+"Kidney papillary carcinoma","15-19 years","Male and female","0.019","0.003","0.014","0.026",44,229160336
+"Kidney papillary carcinoma","15-19 years","Male","0.017","0.004","0.01","0.026",20,117683875
+"Kidney papillary carcinoma","15-19 years","Female","0.022","0.004","0.014","0.032",24,111476461
+"Kidney papillary carcinoma","20-24 years","Male and female","0.035","0.004","0.028","0.044",81,229290703
+"Kidney papillary carcinoma","20-24 years","Male","0.04","0.006","0.029","0.053",47,117600125
+"Kidney papillary carcinoma","20-24 years","Female","0.03","0.005","0.021","0.043",34,111690578
+"Kidney papillary carcinoma","25-29 years","Male and female","0.083","0.006","0.072","0.096",193,231301985
+"Kidney papillary carcinoma","25-29 years","Male","0.092","0.009","0.076","0.111",108,117171061
+"Kidney papillary carcinoma","25-29 years","Female","0.074","0.008","0.059","0.092",85,114130924
+"Kidney papillary carcinoma","30-34 years","Male and female","0.184","0.009","0.167","0.202",423,230073908
+"Kidney papillary carcinoma","30-34 years","Male","0.252","0.015","0.224","0.282",292,115938128
+"Kidney papillary carcinoma","30-34 years","Female","0.115","0.01","0.096","0.136",131,114135780
+"Kidney papillary carcinoma","35-39 years","Male and female","0.398","0.013","0.373","0.425",911,228762701
+"Kidney papillary carcinoma","35-39 years","Male","0.588","0.023","0.545","0.635",675,114709436
+"Kidney papillary carcinoma","35-39 years","Female","0.207","0.013","0.181","0.235",236,114053265
+"Kidney papillary carcinoma","40-44 years","Male and female","0.77","0.018","0.734","0.807",1755,227960237
+"Kidney papillary carcinoma","40-44 years","Male","1.194","0.032","1.132","1.259",1357,113631501
+"Kidney papillary carcinoma","40-44 years","Female","0.348","0.017","0.315","0.384",398,114328736
+"Kidney papillary carcinoma","45-49 years","Male and female","1.4","0.025","1.351","1.449",3149,224982270
+"Kidney papillary carcinoma","45-49 years","Male","2.185","0.044","2.099","2.274",2439,111622077
+"Kidney papillary carcinoma","45-49 years","Female","0.626","0.024","0.581","0.674",710,113360193
+"Kidney papillary carcinoma","50-54 years","Male and female","2.287","0.032","2.224","2.351",4957,216770042
+"Kidney papillary carcinoma","50-54 years","Male","3.707","0.059","3.592","3.824",3961,106853315
+"Kidney papillary carcinoma","50-54 years","Female","0.906","0.029","0.851","0.964",996,109916727
+"Kidney papillary carcinoma","55-59 years","Male and female","3.662","0.043","3.578","3.748",7221,197177690
+"Kidney papillary carcinoma","55-59 years","Male","5.943","0.079","5.789","6.099",5715,96171628
+"Kidney papillary carcinoma","55-59 years","Female","1.491","0.038","1.417","1.568",1506,101006062
+"Kidney papillary carcinoma","60-64 years","Male and female","5.119","0.056","5.01","5.229",8503,166118894
+"Kidney papillary carcinoma","60-64 years","Male","8.337","0.102","8.138","8.54",6661,79896239
+"Kidney papillary carcinoma","60-64 years","Female","2.136","0.05","2.04","2.236",1842,86222655
+"Kidney papillary carcinoma","65-69 years","Male and female","6.855","0.072","6.715","6.997",9093,132650888
+"Kidney papillary carcinoma","65-69 years","Male","11.224","0.134","10.962","11.49",7002,62386128
+"Kidney papillary carcinoma","65-69 years","Female","2.976","0.065","2.85","3.106",2091,70264760
+"Kidney papillary carcinoma","70-74 years","Male and female","7.388","0.085","7.223","7.556",7609,102989851
+"Kidney papillary carcinoma","70-74 years","Male","12.304","0.162","11.988","12.625",5769,46889081
+"Kidney papillary carcinoma","70-74 years","Female","3.28","0.076","3.132","3.433",1840,56100770
+"Kidney papillary carcinoma","75-79 years","Male and female","6.841","0.094","6.658","7.028",5276,77119602
+"Kidney papillary carcinoma","75-79 years","Male","11.628","0.187","11.265","12",3882,33384419
+"Kidney papillary carcinoma","75-79 years","Female","3.187","0.085","3.022","3.359",1394,43735183
+"Kidney papillary carcinoma","80-84 years","Male and female","4.86","0.094","4.677","5.048",2666,54854210
+"Kidney papillary carcinoma","80-84 years","Male","8.562","0.197","8.179","8.957",1883,21992919
+"Kidney papillary carcinoma","80-84 years","Female","2.383","0.085","2.219","2.556",783,32861291
+"Kidney papillary carcinoma","85-89 years","Male and female","2.757","0.091","2.581","2.942",911,33038957
+"Kidney papillary carcinoma","85-89 years","Male","5.097","0.208","4.698","5.521",602,11810198
+"Kidney papillary carcinoma","85-89 years","Female","1.456","0.083","1.298","1.627",309,21228759
+"Kidney papillary carcinoma","90+ years","Male and female","0.952","0.07","0.82","1.099",185,19437568
+"Kidney papillary carcinoma","90+ years","Male","1.993","0.188","1.641","2.399",112,5618381
+"Kidney papillary carcinoma","90+ years","Female","0.528","0.062","0.414","0.664",73,13819187
+"Kidney papillary carcinoma","Unknown","Male and female","~","~","~","~",0,0
+"Kidney papillary carcinoma","Unknown","Male","~","~","~","~",0,0
+"Kidney papillary carcinoma","Unknown","Female","~","~","~","~",0,0
+"Kidney chromophobe carcinoma","00 years","Male and female","0","~","0","0.009",0,43061201
+"Kidney chromophobe carcinoma","00 years","Male","0","~","0","0.017",0,22011981
+"Kidney chromophobe carcinoma","00 years","Female","0","~","0","0.018",0,21049220
+"Kidney chromophobe carcinoma","01-04 years","Male and female","0","~","0","0.002",0,172923682
+"Kidney chromophobe carcinoma","01-04 years","Male","0","~","0","0.004",0,88392817
+"Kidney chromophobe carcinoma","01-04 years","Female","0","~","0","0.004",0,84530865
+"Kidney chromophobe carcinoma","05-09 years","Male and female","0.002","0.001","0","0.005",4,219155625
+"Kidney chromophobe carcinoma","05-09 years","Male","0.001","0.001","0","0.005",1,112012583
+"Kidney chromophobe carcinoma","05-09 years","Female","0.003","0.002","0.001","0.008",3,107143042
+"Kidney chromophobe carcinoma","10-14 years","Male and female","0.003","0.001","0.001","0.006",7,228557404
+"Kidney chromophobe carcinoma","10-14 years","Male","0.004","0.002","0.001","0.01",5,116939349
+"Kidney chromophobe carcinoma","10-14 years","Female","0.002","0.001","0","0.006",2,111618055
+"Kidney chromophobe carcinoma","15-19 years","Male and female","0.015","0.003","0.01","0.021",34,229160336
+"Kidney chromophobe carcinoma","15-19 years","Male","0.008","0.003","0.004","0.016",10,117683875
+"Kidney chromophobe carcinoma","15-19 years","Female","0.022","0.004","0.014","0.032",24,111476461
+"Kidney chromophobe carcinoma","20-24 years","Male and female","0.041","0.004","0.033","0.05",94,229290703
+"Kidney chromophobe carcinoma","20-24 years","Male","0.026","0.005","0.018","0.037",31,117600125
+"Kidney chromophobe carcinoma","20-24 years","Female","0.056","0.007","0.043","0.072",63,111690578
+"Kidney chromophobe carcinoma","25-29 years","Male and female","0.124","0.007","0.11","0.139",287,231301985
+"Kidney chromophobe carcinoma","25-29 years","Male","0.092","0.009","0.076","0.111",108,117171061
+"Kidney chromophobe carcinoma","25-29 years","Female","0.157","0.012","0.135","0.182",179,114130924
+"Kidney chromophobe carcinoma","30-34 years","Male and female","0.252","0.01","0.232","0.273",580,230073908
+"Kidney chromophobe carcinoma","30-34 years","Male","0.231","0.014","0.204","0.261",268,115938128
+"Kidney chromophobe carcinoma","30-34 years","Female","0.273","0.015","0.244","0.305",312,114135780
+"Kidney chromophobe carcinoma","35-39 years","Male and female","0.422","0.014","0.396","0.45",966,228762701
+"Kidney chromophobe carcinoma","35-39 years","Male","0.413","0.019","0.377","0.452",474,114709436
+"Kidney chromophobe carcinoma","35-39 years","Female","0.431","0.019","0.394","0.471",492,114053265
+"Kidney chromophobe carcinoma","40-44 years","Male and female","0.637","0.017","0.605","0.671",1452,227960237
+"Kidney chromophobe carcinoma","40-44 years","Male","0.627","0.023","0.582","0.675",713,113631501
+"Kidney chromophobe carcinoma","40-44 years","Female","0.646","0.024","0.601","0.695",739,114328736
+"Kidney chromophobe carcinoma","45-49 years","Male and female","0.835","0.019","0.797","0.873",1878,224982270
+"Kidney chromophobe carcinoma","45-49 years","Male","0.876","0.028","0.822","0.933",978,111622077
+"Kidney chromophobe carcinoma","45-49 years","Female","0.794","0.026","0.743","0.848",900,113360193
+"Kidney chromophobe carcinoma","50-54 years","Male and female","1.121","0.023","1.077","1.166",2430,216770042
+"Kidney chromophobe carcinoma","50-54 years","Male","1.271","0.034","1.204","1.34",1358,106853315
+"Kidney chromophobe carcinoma","50-54 years","Female","0.975","0.03","0.918","1.035",1072,109916727
+"Kidney chromophobe carcinoma","55-59 years","Male and female","1.433","0.027","1.381","1.487",2826,197177690
+"Kidney chromophobe carcinoma","55-59 years","Male","1.751","0.043","1.668","1.837",1684,96171628
+"Kidney chromophobe carcinoma","55-59 years","Female","1.131","0.033","1.066","1.198",1142,101006062
+"Kidney chromophobe carcinoma","60-64 years","Male and female","1.85","0.033","1.785","1.916",3073,166118894
+"Kidney chromophobe carcinoma","60-64 years","Male","2.372","0.054","2.266","2.481",1895,79896239
+"Kidney chromophobe carcinoma","60-64 years","Female","1.366","0.04","1.289","1.447",1178,86222655
+"Kidney chromophobe carcinoma","65-69 years","Male and female","2.369","0.042","2.287","2.454",3143,132650888
+"Kidney chromophobe carcinoma","65-69 years","Male","3.063","0.07","2.927","3.204",1911,62386128
+"Kidney chromophobe carcinoma","65-69 years","Female","1.753","0.05","1.657","1.854",1232,70264760
+"Kidney chromophobe carcinoma","70-74 years","Male and female","2.677","0.051","2.578","2.779",2757,102989851
+"Kidney chromophobe carcinoma","70-74 years","Male","3.476","0.086","3.31","3.649",1630,46889081
+"Kidney chromophobe carcinoma","70-74 years","Female","2.009","0.06","1.893","2.13",1127,56100770
+"Kidney chromophobe carcinoma","75-79 years","Male and female","2.503","0.057","2.392","2.617",1930,77119602
+"Kidney chromophobe carcinoma","75-79 years","Male","3.319","0.1","3.126","3.52",1108,33384419
+"Kidney chromophobe carcinoma","75-79 years","Female","1.879","0.066","1.753","2.012",822,43735183
+"Kidney chromophobe carcinoma","80-84 years","Male and female","2.025","0.061","1.908","2.148",1111,54854210
+"Kidney chromophobe carcinoma","80-84 years","Male","2.742","0.112","2.527","2.97",603,21992919
+"Kidney chromophobe carcinoma","80-84 years","Female","1.546","0.069","1.414","1.686",508,32861291
+"Kidney chromophobe carcinoma","85-89 years","Male and female","1.259","0.062","1.141","1.386",416,33038957
+"Kidney chromophobe carcinoma","85-89 years","Male","1.88","0.126","1.641","2.144",222,11810198
+"Kidney chromophobe carcinoma","85-89 years","Female","0.914","0.066","0.79","1.052",194,21228759
+"Kidney chromophobe carcinoma","90+ years","Male and female","0.324","0.041","0.249","0.415",63,19437568
+"Kidney chromophobe carcinoma","90+ years","Male","0.427","0.087","0.274","0.636",24,5618381
+"Kidney chromophobe carcinoma","90+ years","Female","0.282","0.045","0.201","0.386",39,13819187
+"Kidney chromophobe carcinoma","Unknown","Male and female","~","~","~","~",0,0
+"Kidney chromophobe carcinoma","Unknown","Male","~","~","~","~",0,0
+"Kidney chromophobe carcinoma","Unknown","Female","~","~","~","~",0,0
+"Melanoma of skin","00 years","Male and female","0.095","0.015","0.068","0.129",41,43061201
+"Melanoma of skin","00 years","Male","0.123","0.024","0.081","0.178",27,22011981
+"Melanoma of skin","00 years","Female","0.067","0.018","0.036","0.112",14,21049220
+"Melanoma of skin","01-04 years","Male and female","0.088","0.007","0.075","0.104",153,172923682
+"Melanoma of skin","01-04 years","Male","0.075","0.009","0.058","0.095",66,88392817
+"Melanoma of skin","01-04 years","Female","0.103","0.011","0.082","0.127",87,84530865
+"Melanoma of skin","05-09 years","Male and female","0.137","0.008","0.122","0.153",300,219155625
+"Melanoma of skin","05-09 years","Male","0.117","0.01","0.098","0.139",131,112012583
+"Melanoma of skin","05-09 years","Female","0.158","0.012","0.135","0.183",169,107143042
+"Melanoma of skin","10-14 years","Male and female","0.286","0.011","0.264","0.308",653,228557404
+"Melanoma of skin","10-14 years","Male","0.275","0.015","0.246","0.307",322,116939349
+"Melanoma of skin","10-14 years","Female","0.297","0.016","0.265","0.33",331,111618055
+"Melanoma of skin","15-19 years","Male and female","1.065","0.022","1.023","1.108",2441,229160336
+"Melanoma of skin","15-19 years","Male","0.828","0.027","0.776","0.881",974,117683875
+"Melanoma of skin","15-19 years","Female","1.316","0.034","1.249","1.385",1467,111476461
+"Melanoma of skin","20-24 years","Male and female","3.088","0.037","3.016","3.161",7080,229290703
+"Melanoma of skin","20-24 years","Male","1.855","0.04","1.778","1.935",2182,117600125
+"Melanoma of skin","20-24 years","Female","4.385","0.063","4.263","4.51",4898,111690578
+"Melanoma of skin","25-29 years","Male and female","5.679","0.05","5.582","5.777",13136,231301985
+"Melanoma of skin","25-29 years","Male","3.643","0.056","3.534","3.753",4268,117171061
+"Melanoma of skin","25-29 years","Female","7.77","0.083","7.609","7.933",8868,114130924
+"Melanoma of skin","30-34 years","Male and female","8.592","0.061","8.472","8.712",19767,230073908
+"Melanoma of skin","30-34 years","Male","6.251","0.073","6.108","6.396",7247,115938128
+"Melanoma of skin","30-34 years","Female","10.969","0.098","10.778","11.163",12520,114135780
+"Melanoma of skin","35-39 years","Male and female","11.434","0.071","11.296","11.573",26156,228762701
+"Melanoma of skin","35-39 years","Male","9.195","0.09","9.02","9.372",10547,114709436
+"Melanoma of skin","35-39 years","Female","13.686","0.11","13.472","13.902",15609,114053265
+"Melanoma of skin","40-44 years","Male and female","15.238","0.082","15.078","15.399",34737,227960237
+"Melanoma of skin","40-44 years","Male","13.441","0.109","13.228","13.656",15273,113631501
+"Melanoma of skin","40-44 years","Female","17.025","0.122","16.786","17.265",19464,114328736
+"Melanoma of skin","45-49 years","Male and female","20.182","0.095","19.997","20.369",45406,224982270
+"Melanoma of skin","45-49 years","Male","19.668","0.133","19.409","19.93",21954,111622077
+"Melanoma of skin","45-49 years","Female","20.688","0.135","20.424","20.955",23452,113360193
+"Melanoma of skin","50-54 years","Male and female","26.617","0.111","26.4","26.835",57697,216770042
+"Melanoma of skin","50-54 years","Male","28.865","0.164","28.544","29.189",30843,106853315
+"Melanoma of skin","50-54 years","Female","24.431","0.149","24.14","24.725",26854,109916727
+"Melanoma of skin","55-59 years","Male and female","34.714","0.133","34.454","34.975",68448,197177690
+"Melanoma of skin","55-59 years","Male","42.023","0.209","41.614","42.435",40414,96171628
+"Melanoma of skin","55-59 years","Female","27.755","0.166","27.431","28.082",28034,101006062
+"Melanoma of skin","60-64 years","Male and female","46.306","0.167","45.979","46.634",76923,166118894
+"Melanoma of skin","60-64 years","Male","59.84","0.274","59.305","60.379",47810,79896239
+"Melanoma of skin","60-64 years","Female","33.765","0.198","33.378","34.155",29113,86222655
+"Melanoma of skin","65-69 years","Male and female","60.794","0.214","60.375","61.215",80644,132650888
+"Melanoma of skin","65-69 years","Male","84.105","0.367","83.387","84.828",52470,62386128
+"Melanoma of skin","65-69 years","Female","40.097","0.239","39.63","40.568",28174,70264760
+"Melanoma of skin","70-74 years","Male and female","74.144","0.268","73.619","74.672",76361,102989851
+"Melanoma of skin","70-74 years","Male","109.347","0.483","108.403","110.298",51272,46889081
+"Melanoma of skin","70-74 years","Female","44.721","0.282","44.17","45.278",25089,56100770
+"Melanoma of skin","75-79 years","Male and female","87.516","0.337","86.857","88.179",67492,77119602
+"Melanoma of skin","75-79 years","Male","137.25","0.641","135.996","138.512",45820,33384419
+"Melanoma of skin","75-79 years","Female","49.553","0.337","48.895","50.217",21672,43735183
+"Melanoma of skin","80-84 years","Male and female","96.888","0.42","96.066","97.715",53147,54854210
+"Melanoma of skin","80-84 years","Male","161.393","0.857","159.718","163.081",35495,21992919
+"Melanoma of skin","80-84 years","Female","53.717","0.404","52.927","54.515",17652,32861291
+"Melanoma of skin","85-89 years","Male and female","101.789","0.555","100.704","102.883",33630,33038957
+"Melanoma of skin","85-89 years","Male","181.944","1.241","179.52","184.394",21488,11810198
+"Melanoma of skin","85-89 years","Female","57.196","0.519","56.183","58.223",12142,21228759
+"Melanoma of skin","90+ years","Male and female","90.927","0.684","89.591","92.278",17674,19437568
+"Melanoma of skin","90+ years","Male","178.788","1.784","175.309","182.319",10045,5618381
+"Melanoma of skin","90+ years","Female","55.206","0.632","53.974","56.459",7629,13819187
+"Melanoma of skin","Unknown","Male and female","~","~","~","~",0,0
+"Melanoma of skin","Unknown","Male","~","~","~","~",0,0
+"Melanoma of skin","Unknown","Female","~","~","~","~",0,0
+"Malignant gliomas (astrocytic tumors)","00 years","Male and female","0.448","0.032","0.387","0.516",193,43061201
+"Malignant gliomas (astrocytic tumors)","00 years","Male","0.454","0.045","0.37","0.553",100,22011981
+"Malignant gliomas (astrocytic tumors)","00 years","Female","0.442","0.046","0.357","0.541",93,21049220
+"Malignant gliomas (astrocytic tumors)","01-04 years","Male and female","0.352","0.014","0.324","0.381",608,172923682
+"Malignant gliomas (astrocytic tumors)","01-04 years","Male","0.351","0.02","0.313","0.392",310,88392817
+"Malignant gliomas (astrocytic tumors)","01-04 years","Female","0.353","0.02","0.314","0.395",298,84530865
+"Malignant gliomas (astrocytic tumors)","05-09 years","Male and female","0.406","0.014","0.38","0.434",890,219155625
+"Malignant gliomas (astrocytic tumors)","05-09 years","Male","0.429","0.02","0.392","0.47",481,112012583
+"Malignant gliomas (astrocytic tumors)","05-09 years","Female","0.382","0.019","0.346","0.421",409,107143042
+"Malignant gliomas (astrocytic tumors)","10-14 years","Male and female","0.43","0.014","0.404","0.458",983,228557404
+"Malignant gliomas (astrocytic tumors)","10-14 years","Male","0.459","0.02","0.421","0.5",537,116939349
+"Malignant gliomas (astrocytic tumors)","10-14 years","Female","0.4","0.019","0.363","0.438",446,111618055
+"Malignant gliomas (astrocytic tumors)","15-19 years","Male and female","0.506","0.015","0.477","0.536",1160,229160336
+"Malignant gliomas (astrocytic tumors)","15-19 years","Male","0.567","0.022","0.525","0.611",667,117683875
+"Malignant gliomas (astrocytic tumors)","15-19 years","Female","0.442","0.02","0.404","0.483",493,111476461
+"Malignant gliomas (astrocytic tumors)","20-24 years","Male and female","0.798","0.019","0.762","0.835",1829,229290703
+"Malignant gliomas (astrocytic tumors)","20-24 years","Male","0.918","0.028","0.864","0.975",1080,117600125
+"Malignant gliomas (astrocytic tumors)","20-24 years","Female","0.671","0.025","0.623","0.72",749,111690578
+"Malignant gliomas (astrocytic tumors)","25-29 years","Male and female","1.24","0.023","1.195","1.286",2867,231301985
+"Malignant gliomas (astrocytic tumors)","25-29 years","Male","1.435","0.035","1.367","1.505",1681,117171061
+"Malignant gliomas (astrocytic tumors)","25-29 years","Female","1.039","0.03","0.981","1.1",1186,114130924
+"Malignant gliomas (astrocytic tumors)","30-34 years","Male and female","1.597","0.026","1.546","1.65",3675,230073908
+"Malignant gliomas (astrocytic tumors)","30-34 years","Male","1.88","0.04","1.802","1.961",2180,115938128
+"Malignant gliomas (astrocytic tumors)","30-34 years","Female","1.31","0.034","1.244","1.378",1495,114135780
+"Malignant gliomas (astrocytic tumors)","35-39 years","Male and female","1.928","0.029","1.871","1.986",4410,228762701
+"Malignant gliomas (astrocytic tumors)","35-39 years","Male","2.29","0.045","2.203","2.379",2627,114709436
+"Malignant gliomas (astrocytic tumors)","35-39 years","Female","1.563","0.037","1.492","1.638",1783,114053265
+"Malignant gliomas (astrocytic tumors)","40-44 years","Male and female","2.462","0.033","2.398","2.528",5613,227960237
+"Malignant gliomas (astrocytic tumors)","40-44 years","Male","3.054","0.052","2.953","3.157",3470,113631501
+"Malignant gliomas (astrocytic tumors)","40-44 years","Female","1.874","0.04","1.796","1.955",2143,114328736
+"Malignant gliomas (astrocytic tumors)","45-49 years","Male and female","3.64","0.04","3.561","3.72",8189,224982270
+"Malignant gliomas (astrocytic tumors)","45-49 years","Male","4.501","0.064","4.377","4.627",5024,111622077
+"Malignant gliomas (astrocytic tumors)","45-49 years","Female","2.792","0.05","2.696","2.891",3165,113360193
+"Malignant gliomas (astrocytic tumors)","50-54 years","Male and female","5.453","0.05","5.355","5.552",11820,216770042
+"Malignant gliomas (astrocytic tumors)","50-54 years","Male","6.689","0.079","6.534","6.846",7147,106853315
+"Malignant gliomas (astrocytic tumors)","50-54 years","Female","4.251","0.062","4.13","4.375",4673,109916727
+"Malignant gliomas (astrocytic tumors)","55-59 years","Male and female","7.9","0.063","7.776","8.025",15577,197177690
+"Malignant gliomas (astrocytic tumors)","55-59 years","Male","9.662","0.1","9.466","9.86",9292,96171628
+"Malignant gliomas (astrocytic tumors)","55-59 years","Female","6.222","0.078","6.07","6.378",6285,101006062
+"Malignant gliomas (astrocytic tumors)","60-64 years","Male and female","10.57","0.08","10.414","10.728",17559,166118894
+"Malignant gliomas (astrocytic tumors)","60-64 years","Male","12.824","0.127","12.577","13.075",10246,79896239
+"Malignant gliomas (astrocytic tumors)","60-64 years","Female","8.482","0.099","8.288","8.678",7313,86222655
+"Malignant gliomas (astrocytic tumors)","65-69 years","Male and female","13.235","0.1","13.04","13.433",17557,132650888
+"Malignant gliomas (astrocytic tumors)","65-69 years","Male","16.22","0.161","15.905","16.539",10119,62386128
+"Malignant gliomas (astrocytic tumors)","65-69 years","Female","10.586","0.123","10.346","10.829",7438,70264760
+"Malignant gliomas (astrocytic tumors)","70-74 years","Male and female","15.793","0.124","15.551","16.037",16265,102989851
+"Malignant gliomas (astrocytic tumors)","70-74 years","Male","19.361","0.203","18.964","19.763",9078,46889081
+"Malignant gliomas (astrocytic tumors)","70-74 years","Female","12.811","0.151","12.516","13.111",7187,56100770
+"Malignant gliomas (astrocytic tumors)","75-79 years","Male and female","17.289","0.15","16.997","17.585",13333,77119602
+"Malignant gliomas (astrocytic tumors)","75-79 years","Male","21.54","0.254","21.045","22.044",7191,33384419
+"Malignant gliomas (astrocytic tumors)","75-79 years","Female","14.044","0.179","13.695","14.399",6142,43735183
+"Malignant gliomas (astrocytic tumors)","80-84 years","Male and female","15.835","0.17","15.503","16.171",8686,54854210
+"Malignant gliomas (astrocytic tumors)","80-84 years","Male","20.679","0.307","20.083","21.289",4548,21992919
+"Malignant gliomas (astrocytic tumors)","80-84 years","Female","12.592","0.196","12.212","12.982",4138,32861291
+"Malignant gliomas (astrocytic tumors)","85-89 years","Male and female","12.276","0.193","11.901","12.66",4056,33038957
+"Malignant gliomas (astrocytic tumors)","85-89 years","Male","17.045","0.38","16.308","17.806",2013,11810198
+"Malignant gliomas (astrocytic tumors)","85-89 years","Female","9.624","0.213","9.211","10.05",2043,21228759
+"Malignant gliomas (astrocytic tumors)","90+ years","Male and female","6.729","0.186","6.369","7.104",1308,19437568
+"Malignant gliomas (astrocytic tumors)","90+ years","Male","10.305","0.428","9.483","11.18",579,5618381
+"Malignant gliomas (astrocytic tumors)","90+ years","Female","5.275","0.195","4.899","5.673",729,13819187
+"Malignant gliomas (astrocytic tumors)","Unknown","Male and female","~","~","~","~",0,0
+"Malignant gliomas (astrocytic tumors)","Unknown","Male","~","~","~","~",0,0
+"Malignant gliomas (astrocytic tumors)","Unknown","Female","~","~","~","~",0,0
+"Hodgkin lymphoma","00 years","Male and female","0","~","0","0.009",0,43061201
+"Hodgkin lymphoma","00 years","Male","0","~","0","0.017",0,22011981
+"Hodgkin lymphoma","00 years","Female","0","~","0","0.018",0,21049220
+"Hodgkin lymphoma","01-04 years","Male and female","0.098","0.008","0.084","0.114",169,172923682
+"Hodgkin lymphoma","01-04 years","Male","0.135","0.012","0.112","0.161",119,88392817
+"Hodgkin lymphoma","01-04 years","Female","0.059","0.008","0.044","0.078",50,84530865
+"Hodgkin lymphoma","05-09 years","Male and female","0.407","0.014","0.381","0.435",893,219155625
+"Hodgkin lymphoma","05-09 years","Male","0.592","0.023","0.548","0.639",663,112012583
+"Hodgkin lymphoma","05-09 years","Female","0.215","0.014","0.188","0.244",230,107143042
+"Hodgkin lymphoma","10-14 years","Male and female","1.194","0.023","1.15","1.24",2729,228557404
+"Hodgkin lymphoma","10-14 years","Male","1.322","0.034","1.257","1.39",1546,116939349
+"Hodgkin lymphoma","10-14 years","Female","1.06","0.031","1","1.122",1183,111618055
+"Hodgkin lymphoma","15-19 years","Male and female","3.061","0.037","2.99","3.134",7015,229160336
+"Hodgkin lymphoma","15-19 years","Male","2.969","0.05","2.871","3.069",3494,117683875
+"Hodgkin lymphoma","15-19 years","Female","3.159","0.053","3.055","3.265",3521,111476461
+"Hodgkin lymphoma","20-24 years","Male and female","4.175","0.043","4.092","4.26",9573,229290703
+"Hodgkin lymphoma","20-24 years","Male","4.021","0.058","3.907","4.138",4729,117600125
+"Hodgkin lymphoma","20-24 years","Female","4.337","0.062","4.216","4.461",4844,111690578
+"Hodgkin lymphoma","25-29 years","Male and female","4.034","0.042","3.953","4.117",9331,231301985
+"Hodgkin lymphoma","25-29 years","Male","3.963","0.058","3.85","4.079",4644,117171061
+"Hodgkin lymphoma","25-29 years","Female","4.107","0.06","3.99","4.226",4687,114130924
+"Hodgkin lymphoma","30-34 years","Male and female","3.544","0.039","3.468","3.622",8154,230073908
+"Hodgkin lymphoma","30-34 years","Male","3.675","0.056","3.566","3.787",4261,115938128
+"Hodgkin lymphoma","30-34 years","Female","3.411","0.055","3.305","3.52",3893,114135780
+"Hodgkin lymphoma","35-39 years","Male and female","3.009","0.036","2.938","3.081",6883,228762701
+"Hodgkin lymphoma","35-39 years","Male","3.355","0.054","3.249","3.462",3848,114709436
+"Hodgkin lymphoma","35-39 years","Female","2.661","0.048","2.567","2.757",3035,114053265
+"Hodgkin lymphoma","40-44 years","Male and female","2.668","0.034","2.602","2.736",6083,227960237
+"Hodgkin lymphoma","40-44 years","Male","3.217","0.053","3.113","3.323",3655,113631501
+"Hodgkin lymphoma","40-44 years","Female","2.124","0.043","2.04","2.21",2428,114328736
+"Hodgkin lymphoma","45-49 years","Male and female","2.361","0.032","2.298","2.425",5312,224982270
+"Hodgkin lymphoma","45-49 years","Male","2.895","0.051","2.796","2.996",3231,111622077
+"Hodgkin lymphoma","45-49 years","Female","1.836","0.04","1.758","1.916",2081,113360193
+"Hodgkin lymphoma","50-54 years","Male and female","2.321","0.033","2.257","2.386",5031,216770042
+"Hodgkin lymphoma","50-54 years","Male","2.958","0.053","2.856","3.063",3161,106853315
+"Hodgkin lymphoma","50-54 years","Female","1.701","0.039","1.625","1.78",1870,109916727
+"Hodgkin lymphoma","55-59 years","Male and female","2.473","0.035","2.404","2.543",4876,197177690
+"Hodgkin lymphoma","55-59 years","Male","3.156","0.057","3.045","3.27",3035,96171628
+"Hodgkin lymphoma","55-59 years","Female","1.823","0.042","1.74","1.908",1841,101006062
+"Hodgkin lymphoma","60-64 years","Male and female","2.681","0.04","2.603","2.761",4454,166118894
+"Hodgkin lymphoma","60-64 years","Male","3.309","0.064","3.184","3.438",2644,79896239
+"Hodgkin lymphoma","60-64 years","Female","2.099","0.049","2.004","2.198",1810,86222655
+"Hodgkin lymphoma","65-69 years","Male and female","3.204","0.049","3.108","3.302",4250,132650888
+"Hodgkin lymphoma","65-69 years","Male","3.974","0.08","3.819","4.133",2479,62386128
+"Hodgkin lymphoma","65-69 years","Female","2.52","0.06","2.404","2.641",1771,70264760
+"Hodgkin lymphoma","70-74 years","Male and female","3.769","0.06","3.652","3.89",3882,102989851
+"Hodgkin lymphoma","70-74 years","Male","4.628","0.099","4.435","4.827",2170,46889081
+"Hodgkin lymphoma","70-74 years","Female","3.052","0.074","2.909","3.2",1712,56100770
+"Hodgkin lymphoma","75-79 years","Male and female","4.33","0.075","4.184","4.479",3339,77119602
+"Hodgkin lymphoma","75-79 years","Male","5.2","0.125","4.958","5.451",1736,33384419
+"Hodgkin lymphoma","75-79 years","Female","3.665","0.092","3.488","3.849",1603,43735183
+"Hodgkin lymphoma","80-84 years","Male and female","4.299","0.089","4.127","4.476",2358,54854210
+"Hodgkin lymphoma","80-84 years","Male","5.443","0.157","5.139","5.76",1197,21992919
+"Hodgkin lymphoma","80-84 years","Female","3.533","0.104","3.333","3.742",1161,32861291
+"Hodgkin lymphoma","85-89 years","Male and female","3.85","0.108","3.641","4.068",1272,33038957
+"Hodgkin lymphoma","85-89 years","Male","4.936","0.204","4.544","5.354",583,11810198
+"Hodgkin lymphoma","85-89 years","Female","3.246","0.124","3.008","3.497",689,21228759
+"Hodgkin lymphoma","90+ years","Male and female","2.037","0.102","1.842","2.248",396,19437568
+"Hodgkin lymphoma","90+ years","Male","2.919","0.228","2.489","3.402",164,5618381
+"Hodgkin lymphoma","90+ years","Female","1.679","0.11","1.47","1.909",232,13819187
+"Hodgkin lymphoma","Unknown","Male and female","~","~","~","~",0,0
+"Hodgkin lymphoma","Unknown","Male","~","~","~","~",0,0
+"Hodgkin lymphoma","Unknown","Female","~","~","~","~",0,0
+"Diffuse large B-cell lymphoma (DLBCL)","00 years","Male and female","0.044","0.01","0.027","0.069",19,43061201
+"Diffuse large B-cell lymphoma (DLBCL)","00 years","Male","0.041","0.014","0.019","0.078",9,22011981
+"Diffuse large B-cell lymphoma (DLBCL)","00 years","Female","0.048","0.015","0.023","0.087",10,21049220
+"Diffuse large B-cell lymphoma (DLBCL)","01-04 years","Male and female","0.082","0.007","0.069","0.096",141,172923682
+"Diffuse large B-cell lymphoma (DLBCL)","01-04 years","Male","0.088","0.01","0.07","0.11",78,88392817
+"Diffuse large B-cell lymphoma (DLBCL)","01-04 years","Female","0.075","0.009","0.057","0.095",63,84530865
+"Diffuse large B-cell lymphoma (DLBCL)","05-09 years","Male and female","0.122","0.007","0.108","0.137",267,219155625
+"Diffuse large B-cell lymphoma (DLBCL)","05-09 years","Male","0.155","0.012","0.133","0.18",174,112012583
+"Diffuse large B-cell lymphoma (DLBCL)","05-09 years","Female","0.087","0.009","0.07","0.106",93,107143042
+"Diffuse large B-cell lymphoma (DLBCL)","10-14 years","Male and female","0.264","0.011","0.243","0.286",603,228557404
+"Diffuse large B-cell lymphoma (DLBCL)","10-14 years","Male","0.313","0.016","0.282","0.347",366,116939349
+"Diffuse large B-cell lymphoma (DLBCL)","10-14 years","Female","0.212","0.014","0.186","0.241",237,111618055
+"Diffuse large B-cell lymphoma (DLBCL)","15-19 years","Male and female","0.606","0.016","0.574","0.638",1388,229160336
+"Diffuse large B-cell lymphoma (DLBCL)","15-19 years","Male","0.713","0.025","0.665","0.763",839,117683875
+"Diffuse large B-cell lymphoma (DLBCL)","15-19 years","Female","0.492","0.021","0.452","0.535",549,111476461
+"Diffuse large B-cell lymphoma (DLBCL)","20-24 years","Male and female","0.979","0.021","0.939","1.02",2244,229290703
+"Diffuse large B-cell lymphoma (DLBCL)","20-24 years","Male","1.139","0.031","1.079","1.202",1340,117600125
+"Diffuse large B-cell lymphoma (DLBCL)","20-24 years","Female","0.809","0.027","0.757","0.864",904,111690578
+"Diffuse large B-cell lymphoma (DLBCL)","25-29 years","Male and female","1.351","0.024","1.304","1.399",3125,231301985
+"Diffuse large B-cell lymphoma (DLBCL)","25-29 years","Male","1.581","0.037","1.51","1.655",1853,117171061
+"Diffuse large B-cell lymphoma (DLBCL)","25-29 years","Female","1.115","0.031","1.054","1.177",1272,114130924
+"Diffuse large B-cell lymphoma (DLBCL)","30-34 years","Male and female","1.845","0.028","1.79","1.901",4245,230073908
+"Diffuse large B-cell lymphoma (DLBCL)","30-34 years","Male","2.188","0.043","2.104","2.275",2537,115938128
+"Diffuse large B-cell lymphoma (DLBCL)","30-34 years","Female","1.496","0.036","1.426","1.569",1708,114135780
+"Diffuse large B-cell lymphoma (DLBCL)","35-39 years","Male and female","2.618","0.034","2.552","2.685",5989,228762701
+"Diffuse large B-cell lymphoma (DLBCL)","35-39 years","Male","3.215","0.053","3.112","3.321",3688,114709436
+"Diffuse large B-cell lymphoma (DLBCL)","35-39 years","Female","2.017","0.042","1.936","2.102",2301,114053265
+"Diffuse large B-cell lymphoma (DLBCL)","40-44 years","Male and female","3.511","0.039","3.435","3.589",8004,227960237
+"Diffuse large B-cell lymphoma (DLBCL)","40-44 years","Male","4.457","0.063","4.335","4.581",5064,113631501
+"Diffuse large B-cell lymphoma (DLBCL)","40-44 years","Female","2.572","0.047","2.479","2.666",2940,114328736
+"Diffuse large B-cell lymphoma (DLBCL)","45-49 years","Male and female","5.004","0.047","4.911","5.097",11257,224982270
+"Diffuse large B-cell lymphoma (DLBCL)","45-49 years","Male","6.306","0.075","6.16","6.455",7039,111622077
+"Diffuse large B-cell lymphoma (DLBCL)","45-49 years","Female","3.721","0.057","3.609","3.835",4218,113360193
+"Diffuse large B-cell lymphoma (DLBCL)","50-54 years","Male and female","7.116","0.057","7.004","7.229",15426,216770042
+"Diffuse large B-cell lymphoma (DLBCL)","50-54 years","Male","8.784","0.091","8.607","8.964",9386,106853315
+"Diffuse large B-cell lymphoma (DLBCL)","50-54 years","Female","5.495","0.071","5.357","5.635",6040,109916727
+"Diffuse large B-cell lymphoma (DLBCL)","55-59 years","Male and female","10.149","0.072","10.009","10.29",20011,197177690
+"Diffuse large B-cell lymphoma (DLBCL)","55-59 years","Male","12.344","0.113","12.122","12.568",11871,96171628
+"Diffuse large B-cell lymphoma (DLBCL)","55-59 years","Female","8.059","0.089","7.885","8.236",8140,101006062
+"Diffuse large B-cell lymphoma (DLBCL)","60-64 years","Male and female","14.784","0.094","14.6","14.97",24559,166118894
+"Diffuse large B-cell lymphoma (DLBCL)","60-64 years","Male","17.584","0.148","17.294","17.877",14049,79896239
+"Diffuse large B-cell lymphoma (DLBCL)","60-64 years","Female","12.189","0.119","11.957","12.425",10510,86222655
+"Diffuse large B-cell lymphoma (DLBCL)","65-69 years","Male and female","21.562","0.127","21.313","21.813",28602,132650888
+"Diffuse large B-cell lymphoma (DLBCL)","65-69 years","Male","25.339","0.202","24.945","25.737",15808,62386128
+"Diffuse large B-cell lymphoma (DLBCL)","65-69 years","Female","18.208","0.161","17.894","18.527",12794,70264760
+"Diffuse large B-cell lymphoma (DLBCL)","70-74 years","Male and female","29.387","0.169","29.057","29.72",30266,102989851
+"Diffuse large B-cell lymphoma (DLBCL)","70-74 years","Male","34.722","0.272","34.191","35.26",16281,46889081
+"Diffuse large B-cell lymphoma (DLBCL)","70-74 years","Female","24.928","0.211","24.517","25.345",13985,56100770
+"Diffuse large B-cell lymphoma (DLBCL)","75-79 years","Male and female","38.65","0.224","38.213","39.092",29807,77119602
+"Diffuse large B-cell lymphoma (DLBCL)","75-79 years","Male","46.42","0.373","45.692","47.157",15497,33384419
+"Diffuse large B-cell lymphoma (DLBCL)","75-79 years","Female","32.72","0.274","32.186","33.26",14310,43735183
+"Diffuse large B-cell lymphoma (DLBCL)","80-84 years","Male and female","46.035","0.29","45.469","46.606",25252,54854210
+"Diffuse large B-cell lymphoma (DLBCL)","80-84 years","Male","57.264","0.51","56.268","58.273",12594,21992919
+"Diffuse large B-cell lymphoma (DLBCL)","80-84 years","Female","38.519","0.342","37.851","39.196",12658,32861291
+"Diffuse large B-cell lymphoma (DLBCL)","85-89 years","Male and female","47.344","0.379","46.605","48.092",15642,33038957
+"Diffuse large B-cell lymphoma (DLBCL)","85-89 years","Male","61.481","0.722","60.075","62.911",7261,11810198
+"Diffuse large B-cell lymphoma (DLBCL)","85-89 years","Female","39.479","0.431","38.639","40.334",8381,21228759
+"Diffuse large B-cell lymphoma (DLBCL)","90+ years","Male and female","35.37","0.427","34.538","36.216",6875,19437568
+"Diffuse large B-cell lymphoma (DLBCL)","90+ years","Male","50.086","0.944","48.252","51.971",2814,5618381
+"Diffuse large B-cell lymphoma (DLBCL)","90+ years","Female","29.387","0.461","28.49","30.305",4061,13819187
+"Diffuse large B-cell lymphoma (DLBCL)","Unknown","Male and female","~","~","~","~",0,0
+"Diffuse large B-cell lymphoma (DLBCL)","Unknown","Male","~","~","~","~",0,0
+"Diffuse large B-cell lymphoma (DLBCL)","Unknown","Female","~","~","~","~",0,0
+"Follicular lymphoma","00 years","Male and female","0.014","0.006","0.005","0.03",6,43061201
+"Follicular lymphoma","00 years","Male","0.009","0.006","0.001","0.033",2,22011981
+"Follicular lymphoma","00 years","Female","0.019","0.01","0.005","0.049",4,21049220
+"Follicular lymphoma","01-04 years","Male and female","0.008","0.002","0.004","0.013",13,172923682
+"Follicular lymphoma","01-04 years","Male","0.014","0.004","0.007","0.024",12,88392817
+"Follicular lymphoma","01-04 years","Female","0.001","0.001","0","0.007",1,84530865
+"Follicular lymphoma","05-09 years","Male and female","0.018","0.003","0.013","0.025",40,219155625
+"Follicular lymphoma","05-09 years","Male","0.032","0.005","0.023","0.044",36,112012583
+"Follicular lymphoma","05-09 years","Female","0.004","0.002","0.001","0.01",4,107143042
+"Follicular lymphoma","10-14 years","Male and female","0.044","0.004","0.036","0.053",100,228557404
+"Follicular lymphoma","10-14 years","Male","0.071","0.008","0.057","0.088",83,116939349
+"Follicular lymphoma","10-14 years","Female","0.015","0.004","0.009","0.024",17,111618055
+"Follicular lymphoma","15-19 years","Male and female","0.071","0.006","0.061","0.083",163,229160336
+"Follicular lymphoma","15-19 years","Male","0.12","0.01","0.101","0.141",141,117683875
+"Follicular lymphoma","15-19 years","Female","0.02","0.004","0.012","0.03",22,111476461
+"Follicular lymphoma","20-24 years","Male and female","0.121","0.007","0.107","0.136",278,229290703
+"Follicular lymphoma","20-24 years","Male","0.145","0.011","0.124","0.168",170,117600125
+"Follicular lymphoma","20-24 years","Female","0.097","0.009","0.079","0.117",108,111690578
+"Follicular lymphoma","25-29 years","Male and female","0.251","0.01","0.231","0.272",581,231301985
+"Follicular lymphoma","25-29 years","Male","0.281","0.015","0.251","0.313",329,117171061
+"Follicular lymphoma","25-29 years","Female","0.221","0.014","0.194","0.25",252,114130924
+"Follicular lymphoma","30-34 years","Male and female","0.603","0.016","0.572","0.635",1387,230073908
+"Follicular lymphoma","30-34 years","Male","0.653","0.024","0.607","0.701",757,115938128
+"Follicular lymphoma","30-34 years","Female","0.552","0.022","0.51","0.597",630,114135780
+"Follicular lymphoma","35-39 years","Male and female","1.231","0.023","1.186","1.278",2817,228762701
+"Follicular lymphoma","35-39 years","Male","1.3","0.034","1.235","1.367",1491,114709436
+"Follicular lymphoma","35-39 years","Female","1.163","0.032","1.101","1.227",1326,114053265
+"Follicular lymphoma","40-44 years","Male and female","2.136","0.031","2.077","2.197",4870,227960237
+"Follicular lymphoma","40-44 years","Male","2.309","0.045","2.222","2.399",2624,113631501
+"Follicular lymphoma","40-44 years","Female","1.965","0.041","1.884","2.047",2246,114328736
+"Follicular lymphoma","45-49 years","Male and female","3.394","0.039","3.318","3.471",7635,224982270
+"Follicular lymphoma","45-49 years","Male","3.621","0.057","3.51","3.735",4042,111622077
+"Follicular lymphoma","45-49 years","Female","3.17","0.053","3.067","3.275",3593,113360193
+"Follicular lymphoma","50-54 years","Male and female","5.1","0.049","5.006","5.196",11056,216770042
+"Follicular lymphoma","50-54 years","Male","5.232","0.07","5.096","5.371",5591,106853315
+"Follicular lymphoma","50-54 years","Female","4.972","0.067","4.841","5.106",5465,109916727
+"Follicular lymphoma","55-59 years","Male and female","7.036","0.06","6.92","7.154",13874,197177690
+"Follicular lymphoma","55-59 years","Male","7.42","0.088","7.249","7.594",7136,96171628
+"Follicular lymphoma","55-59 years","Female","6.671","0.081","6.513","6.832",6738,101006062
+"Follicular lymphoma","60-64 years","Male and female","9.145","0.074","9","9.292",15192,166118894
+"Follicular lymphoma","60-64 years","Male","9.641","0.11","9.427","9.859",7703,79896239
+"Follicular lymphoma","60-64 years","Female","8.686","0.1","8.49","8.885",7489,86222655
+"Follicular lymphoma","65-69 years","Male and female","12.095","0.095","11.908","12.284",16044,132650888
+"Follicular lymphoma","65-69 years","Male","13.049","0.145","12.767","13.336",8141,62386128
+"Follicular lymphoma","65-69 years","Female","11.247","0.127","11.001","11.498",7903,70264760
+"Follicular lymphoma","70-74 years","Male and female","14.49","0.119","14.258","14.724",14923,102989851
+"Follicular lymphoma","70-74 years","Male","15.641","0.183","15.285","16.003",7334,46889081
+"Follicular lymphoma","70-74 years","Female","13.527","0.155","13.225","13.835",7589,56100770
+"Follicular lymphoma","75-79 years","Male and female","16.286","0.145","16.003","16.574",12560,77119602
+"Follicular lymphoma","75-79 years","Male","18.326","0.234","17.87","18.791",6118,33384419
+"Follicular lymphoma","75-79 years","Female","14.73","0.184","14.372","15.094",6442,43735183
+"Follicular lymphoma","80-84 years","Male and female","16.724","0.175","16.384","17.07",9174,54854210
+"Follicular lymphoma","80-84 years","Male","19.443","0.297","18.864","20.034",4276,21992919
+"Follicular lymphoma","80-84 years","Female","14.905","0.213","14.491","15.328",4898,32861291
+"Follicular lymphoma","85-89 years","Male and female","14.925","0.213","14.511","15.347",4931,33038957
+"Follicular lymphoma","85-89 years","Male","18.01","0.391","17.253","18.792",2127,11810198
+"Follicular lymphoma","85-89 years","Female","13.208","0.249","12.724","13.707",2804,21228759
+"Follicular lymphoma","90+ years","Male and female","8.736","0.212","8.325","9.161",1698,19437568
+"Follicular lymphoma","90+ years","Male","11.32","0.449","10.457","12.235",636,5618381
+"Follicular lymphoma","90+ years","Female","7.685","0.236","7.23","8.161",1062,13819187
+"Follicular lymphoma","Unknown","Male and female","~","~","~","~",0,0
+"Follicular lymphoma","Unknown","Male","~","~","~","~",0,0
+"Follicular lymphoma","Unknown","Female","~","~","~","~",0,0
+"Chronic lymphocytic leukemia (CLL)","00 years","Male and female","0.012","0.005","0.004","0.027",5,43061201
+"Chronic lymphocytic leukemia (CLL)","00 years","Male","0.014","0.008","0.003","0.04",3,22011981
+"Chronic lymphocytic leukemia (CLL)","00 years","Female","0.01","0.007","0.001","0.034",2,21049220
+"Chronic lymphocytic leukemia (CLL)","01-04 years","Male and female","0.008","0.002","0.004","0.013",13,172923682
+"Chronic lymphocytic leukemia (CLL)","01-04 years","Male","0.005","0.002","0.001","0.012",4,88392817
+"Chronic lymphocytic leukemia (CLL)","01-04 years","Female","0.011","0.004","0.005","0.02",9,84530865
+"Chronic lymphocytic leukemia (CLL)","05-09 years","Male and female","0.005","0.002","0.003","0.01",12,219155625
+"Chronic lymphocytic leukemia (CLL)","05-09 years","Male","0.006","0.002","0.003","0.013",7,112012583
+"Chronic lymphocytic leukemia (CLL)","05-09 years","Female","0.005","0.002","0.002","0.011",5,107143042
+"Chronic lymphocytic leukemia (CLL)","10-14 years","Male and female","0.004","0.001","0.002","0.008",10,228557404
+"Chronic lymphocytic leukemia (CLL)","10-14 years","Male","0.003","0.001","0.001","0.007",3,116939349
+"Chronic lymphocytic leukemia (CLL)","10-14 years","Female","0.006","0.002","0.003","0.013",7,111618055
+"Chronic lymphocytic leukemia (CLL)","15-19 years","Male and female","0.014","0.002","0.009","0.019",31,229160336
+"Chronic lymphocytic leukemia (CLL)","15-19 years","Male","0.014","0.004","0.008","0.023",17,117683875
+"Chronic lymphocytic leukemia (CLL)","15-19 years","Female","0.013","0.003","0.007","0.021",14,111476461
+"Chronic lymphocytic leukemia (CLL)","20-24 years","Male and female","0.02","0.003","0.015","0.027",46,229290703
+"Chronic lymphocytic leukemia (CLL)","20-24 years","Male","0.022","0.004","0.014","0.032",26,117600125
+"Chronic lymphocytic leukemia (CLL)","20-24 years","Female","0.018","0.004","0.011","0.028",20,111690578
+"Chronic lymphocytic leukemia (CLL)","25-29 years","Male and female","0.053","0.005","0.044","0.063",123,231301985
+"Chronic lymphocytic leukemia (CLL)","25-29 years","Male","0.062","0.007","0.049","0.078",73,117171061
+"Chronic lymphocytic leukemia (CLL)","25-29 years","Female","0.044","0.006","0.033","0.058",50,114130924
+"Chronic lymphocytic leukemia (CLL)","30-34 years","Male and female","0.15","0.008","0.135","0.167",345,230073908
+"Chronic lymphocytic leukemia (CLL)","30-34 years","Male","0.185","0.013","0.161","0.211",214,115938128
+"Chronic lymphocytic leukemia (CLL)","30-34 years","Female","0.115","0.01","0.096","0.136",131,114135780
+"Chronic lymphocytic leukemia (CLL)","35-39 years","Male and female","0.413","0.013","0.387","0.44",945,228762701
+"Chronic lymphocytic leukemia (CLL)","35-39 years","Male","0.528","0.021","0.487","0.572",606,114709436
+"Chronic lymphocytic leukemia (CLL)","35-39 years","Female","0.297","0.016","0.266","0.331",339,114053265
+"Chronic lymphocytic leukemia (CLL)","40-44 years","Male and female","1.083","0.022","1.04","1.126",2468,227960237
+"Chronic lymphocytic leukemia (CLL)","40-44 years","Male","1.376","0.035","1.309","1.446",1564,113631501
+"Chronic lymphocytic leukemia (CLL)","40-44 years","Female","0.791","0.026","0.74","0.844",904,114328736
+"Chronic lymphocytic leukemia (CLL)","45-49 years","Male and female","2.509","0.033","2.444","2.575",5644,224982270
+"Chronic lymphocytic leukemia (CLL)","45-49 years","Male","3.228","0.054","3.123","3.335",3603,111622077
+"Chronic lymphocytic leukemia (CLL)","45-49 years","Female","1.8","0.04","1.723","1.88",2041,113360193
+"Chronic lymphocytic leukemia (CLL)","50-54 years","Male and female","5.184","0.049","5.088","5.281",11237,216770042
+"Chronic lymphocytic leukemia (CLL)","50-54 years","Male","6.684","0.079","6.53","6.841",7142,106853315
+"Chronic lymphocytic leukemia (CLL)","50-54 years","Female","3.726","0.058","3.612","3.841",4095,109916727
+"Chronic lymphocytic leukemia (CLL)","55-59 years","Male and female","9.238","0.068","9.104","9.373",18215,197177690
+"Chronic lymphocytic leukemia (CLL)","55-59 years","Male","12.157","0.112","11.938","12.38",11692,96171628
+"Chronic lymphocytic leukemia (CLL)","55-59 years","Female","6.458","0.08","6.302","6.617",6523,101006062
+"Chronic lymphocytic leukemia (CLL)","60-64 years","Male and female","14.653","0.094","14.469","14.838",24341,166118894
+"Chronic lymphocytic leukemia (CLL)","60-64 years","Male","19.414","0.156","19.11","19.722",15511,79896239
+"Chronic lymphocytic leukemia (CLL)","60-64 years","Female","10.241","0.109","10.028","10.457",8830,86222655
+"Chronic lymphocytic leukemia (CLL)","65-69 years","Male and female","21.964","0.129","21.713","22.218",29136,132650888
+"Chronic lymphocytic leukemia (CLL)","65-69 years","Male","29.159","0.216","28.737","29.586",18191,62386128
+"Chronic lymphocytic leukemia (CLL)","65-69 years","Female","15.577","0.149","15.286","15.871",10945,70264760
+"Chronic lymphocytic leukemia (CLL)","70-74 years","Male and female","28.597","0.167","28.271","28.925",29452,102989851
+"Chronic lymphocytic leukemia (CLL)","70-74 years","Male","38.098","0.285","37.542","38.661",17864,46889081
+"Chronic lymphocytic leukemia (CLL)","70-74 years","Female","20.656","0.192","20.281","21.035",11588,56100770
+"Chronic lymphocytic leukemia (CLL)","75-79 years","Male and female","35.921","0.216","35.499","36.346",27702,77119602
+"Chronic lymphocytic leukemia (CLL)","75-79 years","Male","48.684","0.382","47.939","49.439",16253,33384419
+"Chronic lymphocytic leukemia (CLL)","75-79 years","Female","26.178","0.245","25.701","26.662",11449,43735183
+"Chronic lymphocytic leukemia (CLL)","80-84 years","Male and female","41.131","0.274","40.596","41.671",22562,54854210
+"Chronic lymphocytic leukemia (CLL)","80-84 years","Male","57.573","0.512","56.575","58.585",12662,21992919
+"Chronic lymphocytic leukemia (CLL)","80-84 years","Female","30.127","0.303","29.536","30.726",9900,32861291
+"Chronic lymphocytic leukemia (CLL)","85-89 years","Male and female","44.932","0.369","44.212","45.661",14845,33038957
+"Chronic lymphocytic leukemia (CLL)","85-89 years","Male","64.012","0.736","62.578","65.472",7560,11810198
+"Chronic lymphocytic leukemia (CLL)","85-89 years","Female","34.317","0.402","33.533","35.114",7285,21228759
+"Chronic lymphocytic leukemia (CLL)","90+ years","Male and female","43.555","0.473","42.632","44.493",8466,19437568
+"Chronic lymphocytic leukemia (CLL)","90+ years","Male","66.104","1.085","63.995","68.265",3714,5618381
+"Chronic lymphocytic leukemia (CLL)","90+ years","Female","34.387","0.499","33.416","35.379",4752,13819187
+"Chronic lymphocytic leukemia (CLL)","Unknown","Male and female","~","~","~","~",0,0
+"Chronic lymphocytic leukemia (CLL)","Unknown","Male","~","~","~","~",0,0
+"Chronic lymphocytic leukemia (CLL)","Unknown","Female","~","~","~","~",0,0
+"Acute myeloid leukemia (AML)","00 years","Male and female","1.196","0.053","1.095","1.304",515,43061201
+"Acute myeloid leukemia (AML)","00 years","Male","1.177","0.073","1.038","1.329",259,22011981
+"Acute myeloid leukemia (AML)","00 years","Female","1.216","0.076","1.072","1.375",256,21049220
+"Acute myeloid leukemia (AML)","01-04 years","Male and female","0.651","0.019","0.613","0.69",1125,172923682
+"Acute myeloid leukemia (AML)","01-04 years","Male","0.683","0.028","0.63","0.74",604,88392817
+"Acute myeloid leukemia (AML)","01-04 years","Female","0.616","0.027","0.565","0.672",521,84530865
+"Acute myeloid leukemia (AML)","05-09 years","Male and female","0.376","0.013","0.351","0.403",824,219155625
+"Acute myeloid leukemia (AML)","05-09 years","Male","0.414","0.019","0.377","0.454",464,112012583
+"Acute myeloid leukemia (AML)","05-09 years","Female","0.336","0.018","0.302","0.373",360,107143042
+"Acute myeloid leukemia (AML)","10-14 years","Male and female","0.616","0.016","0.584","0.649",1408,228557404
+"Acute myeloid leukemia (AML)","10-14 years","Male","0.647","0.024","0.602","0.695",757,116939349
+"Acute myeloid leukemia (AML)","10-14 years","Female","0.583","0.023","0.539","0.63",651,111618055
+"Acute myeloid leukemia (AML)","15-19 years","Male and female","0.822","0.019","0.785","0.86",1883,229160336
+"Acute myeloid leukemia (AML)","15-19 years","Male","0.829","0.027","0.778","0.883",976,117683875
+"Acute myeloid leukemia (AML)","15-19 years","Female","0.814","0.027","0.762","0.868",907,111476461
+"Acute myeloid leukemia (AML)","20-24 years","Male and female","0.94","0.02","0.901","0.98",2155,229290703
+"Acute myeloid leukemia (AML)","20-24 years","Male","0.918","0.028","0.864","0.975",1080,117600125
+"Acute myeloid leukemia (AML)","20-24 years","Female","0.962","0.029","0.906","1.022",1075,111690578
+"Acute myeloid leukemia (AML)","25-29 years","Male and female","1.024","0.021","0.983","1.066",2368,231301985
+"Acute myeloid leukemia (AML)","25-29 years","Male","1.022","0.03","0.965","1.081",1197,117171061
+"Acute myeloid leukemia (AML)","25-29 years","Female","1.026","0.03","0.968","1.087",1171,114130924
+"Acute myeloid leukemia (AML)","30-34 years","Male and female","1.211","0.023","1.166","1.257",2786,230073908
+"Acute myeloid leukemia (AML)","30-34 years","Male","1.205","0.032","1.143","1.27",1397,115938128
+"Acute myeloid leukemia (AML)","30-34 years","Female","1.217","0.033","1.154","1.283",1389,114135780
+"Acute myeloid leukemia (AML)","35-39 years","Male and female","1.415","0.025","1.367","1.465",3237,228762701
+"Acute myeloid leukemia (AML)","35-39 years","Male","1.378","0.035","1.311","1.448",1581,114709436
+"Acute myeloid leukemia (AML)","35-39 years","Female","1.452","0.036","1.383","1.524",1656,114053265
+"Acute myeloid leukemia (AML)","40-44 years","Male and female","1.761","0.028","1.707","1.816",4014,227960237
+"Acute myeloid leukemia (AML)","40-44 years","Male","1.743","0.039","1.667","1.822",1981,113631501
+"Acute myeloid leukemia (AML)","40-44 years","Female","1.778","0.039","1.702","1.857",2033,114328736
+"Acute myeloid leukemia (AML)","45-49 years","Male and female","2.318","0.032","2.255","2.381",5214,224982270
+"Acute myeloid leukemia (AML)","45-49 years","Male","2.282","0.045","2.194","2.372",2547,111622077
+"Acute myeloid leukemia (AML)","45-49 years","Female","2.353","0.046","2.264","2.444",2667,113360193
+"Acute myeloid leukemia (AML)","50-54 years","Male and female","3.145","0.038","3.071","3.221",6818,216770042
+"Acute myeloid leukemia (AML)","50-54 years","Male","3.277","0.055","3.17","3.388",3502,106853315
+"Acute myeloid leukemia (AML)","50-54 years","Female","3.017","0.052","2.915","3.121",3316,109916727
+"Acute myeloid leukemia (AML)","55-59 years","Male and female","4.411","0.047","4.319","4.504",8697,197177690
+"Acute myeloid leukemia (AML)","55-59 years","Male","4.842","0.071","4.704","4.983",4657,96171628
+"Acute myeloid leukemia (AML)","55-59 years","Female","4","0.063","3.877","4.125",4040,101006062
+"Acute myeloid leukemia (AML)","60-64 years","Male and female","6.582","0.063","6.459","6.707",10934,166118894
+"Acute myeloid leukemia (AML)","60-64 years","Male","7.59","0.097","7.4","7.783",6064,79896239
+"Acute myeloid leukemia (AML)","60-64 years","Female","5.648","0.081","5.491","5.809",4870,86222655
+"Acute myeloid leukemia (AML)","65-69 years","Male and female","9.995","0.087","9.826","10.167",13259,132650888
+"Acute myeloid leukemia (AML)","65-69 years","Male","12.001","0.139","11.731","12.276",7487,62386128
+"Acute myeloid leukemia (AML)","65-69 years","Female","8.215","0.108","8.004","8.429",5772,70264760
+"Acute myeloid leukemia (AML)","70-74 years","Male and female","14.466","0.119","14.235","14.701",14899,102989851
+"Acute myeloid leukemia (AML)","70-74 years","Male","18.422","0.198","18.036","18.815",8638,46889081
+"Acute myeloid leukemia (AML)","70-74 years","Female","11.16","0.141","10.886","11.44",6261,56100770
+"Acute myeloid leukemia (AML)","75-79 years","Male and female","19.503","0.159","19.193","19.818",15041,77119602
+"Acute myeloid leukemia (AML)","75-79 years","Male","25.805","0.278","25.263","26.356",8615,33384419
+"Acute myeloid leukemia (AML)","75-79 years","Female","14.693","0.183","14.336","15.057",6426,43735183
+"Acute myeloid leukemia (AML)","80-84 years","Male and female","24.046","0.209","23.637","24.459",13190,54854210
+"Acute myeloid leukemia (AML)","80-84 years","Male","33.247","0.389","32.489","34.018",7312,21992919
+"Acute myeloid leukemia (AML)","80-84 years","Female","17.887","0.233","17.433","18.351",5878,32861291
+"Acute myeloid leukemia (AML)","85-89 years","Male and female","26.087","0.281","25.54","26.644",8619,33038957
+"Acute myeloid leukemia (AML)","85-89 years","Male","36.401","0.555","35.321","37.505",4299,11810198
+"Acute myeloid leukemia (AML)","85-89 years","Female","20.35","0.31","19.747","20.966",4320,21228759
+"Acute myeloid leukemia (AML)","90+ years","Male and female","21.021","0.329","20.381","21.676",4086,19437568
+"Acute myeloid leukemia (AML)","90+ years","Male","31.201","0.745","29.758","32.697",1753,5618381
+"Acute myeloid leukemia (AML)","90+ years","Female","16.882","0.35","16.204","17.582",2333,13819187
+"Acute myeloid leukemia (AML)","Unknown","Male and female","~","~","~","~",0,0
+"Acute myeloid leukemia (AML)","Unknown","Male","~","~","~","~",0,0
+"Acute myeloid leukemia (AML)","Unknown","Female","~","~","~","~",0,0
+"Chronic myeloid leukemia (CML)","00 years","Male and female","0.012","0.005","0.004","0.027",5,43061201
+"Chronic myeloid leukemia (CML)","00 years","Male","0.009","0.006","0.001","0.033",2,22011981
+"Chronic myeloid leukemia (CML)","00 years","Female","0.014","0.008","0.003","0.042",3,21049220
+"Chronic myeloid leukemia (CML)","01-04 years","Male and female","0.038","0.005","0.029","0.048",65,172923682
+"Chronic myeloid leukemia (CML)","01-04 years","Male","0.042","0.007","0.029","0.058",37,88392817
+"Chronic myeloid leukemia (CML)","01-04 years","Female","0.033","0.006","0.022","0.048",28,84530865
+"Chronic myeloid leukemia (CML)","05-09 years","Male and female","0.053","0.005","0.044","0.064",117,219155625
+"Chronic myeloid leukemia (CML)","05-09 years","Male","0.052","0.007","0.039","0.067",58,112012583
+"Chronic myeloid leukemia (CML)","05-09 years","Female","0.055","0.007","0.042","0.071",59,107143042
+"Chronic myeloid leukemia (CML)","10-14 years","Male and female","0.14","0.008","0.126","0.157",321,228557404
+"Chronic myeloid leukemia (CML)","10-14 years","Male","0.154","0.011","0.132","0.178",180,116939349
+"Chronic myeloid leukemia (CML)","10-14 years","Female","0.126","0.011","0.106","0.149",141,111618055
+"Chronic myeloid leukemia (CML)","15-19 years","Male and female","0.267","0.011","0.246","0.289",612,229160336
+"Chronic myeloid leukemia (CML)","15-19 years","Male","0.315","0.016","0.284","0.349",371,117683875
+"Chronic myeloid leukemia (CML)","15-19 years","Female","0.216","0.014","0.19","0.245",241,111476461
+"Chronic myeloid leukemia (CML)","20-24 years","Male and female","0.481","0.014","0.453","0.511",1104,229290703
+"Chronic myeloid leukemia (CML)","20-24 years","Male","0.568","0.022","0.526","0.613",668,117600125
+"Chronic myeloid leukemia (CML)","20-24 years","Female","0.39","0.019","0.355","0.429",436,111690578
+"Chronic myeloid leukemia (CML)","25-29 years","Male and female","0.673","0.017","0.64","0.707",1557,231301985
+"Chronic myeloid leukemia (CML)","25-29 years","Male","0.843","0.027","0.791","0.897",988,117171061
+"Chronic myeloid leukemia (CML)","25-29 years","Female","0.499","0.021","0.458","0.541",569,114130924
+"Chronic myeloid leukemia (CML)","30-34 years","Male and female","0.894","0.02","0.856","0.934",2057,230073908
+"Chronic myeloid leukemia (CML)","30-34 years","Male","1.064","0.03","1.006","1.125",1234,115938128
+"Chronic myeloid leukemia (CML)","30-34 years","Female","0.721","0.025","0.673","0.772",823,114135780
+"Chronic myeloid leukemia (CML)","35-39 years","Male and female","1.122","0.022","1.079","1.166",2567,228762701
+"Chronic myeloid leukemia (CML)","35-39 years","Male","1.338","0.034","1.272","1.407",1535,114709436
+"Chronic myeloid leukemia (CML)","35-39 years","Female","0.905","0.028","0.85","0.962",1032,114053265
+"Chronic myeloid leukemia (CML)","40-44 years","Male and female","1.313","0.024","1.267","1.361",2994,227960237
+"Chronic myeloid leukemia (CML)","40-44 years","Male","1.523","0.037","1.452","1.597",1731,113631501
+"Chronic myeloid leukemia (CML)","40-44 years","Female","1.105","0.031","1.045","1.167",1263,114328736
+"Chronic myeloid leukemia (CML)","45-49 years","Male and female","1.607","0.027","1.555","1.66",3615,224982270
+"Chronic myeloid leukemia (CML)","45-49 years","Male","1.849","0.041","1.77","1.931",2064,111622077
+"Chronic myeloid leukemia (CML)","45-49 years","Female","1.368","0.035","1.301","1.438",1551,113360193
+"Chronic myeloid leukemia (CML)","50-54 years","Male and female","1.911","0.03","1.853","1.97",4143,216770042
+"Chronic myeloid leukemia (CML)","50-54 years","Male","2.213","0.046","2.125","2.304",2365,106853315
+"Chronic myeloid leukemia (CML)","50-54 years","Female","1.618","0.038","1.543","1.695",1778,109916727
+"Chronic myeloid leukemia (CML)","55-59 years","Male and female","2.278","0.034","2.212","2.345",4491,197177690
+"Chronic myeloid leukemia (CML)","55-59 years","Male","2.54","0.051","2.441","2.643",2443,96171628
+"Chronic myeloid leukemia (CML)","55-59 years","Female","2.028","0.045","1.941","2.117",2048,101006062
+"Chronic myeloid leukemia (CML)","60-64 years","Male and female","2.737","0.041","2.658","2.817",4546,166118894
+"Chronic myeloid leukemia (CML)","60-64 years","Male","3.307","0.064","3.182","3.435",2642,79896239
+"Chronic myeloid leukemia (CML)","60-64 years","Female","2.208","0.051","2.11","2.31",1904,86222655
+"Chronic myeloid leukemia (CML)","65-69 years","Male and female","3.516","0.051","3.416","3.618",4664,132650888
+"Chronic myeloid leukemia (CML)","65-69 years","Male","4.305","0.083","4.144","4.471",2686,62386128
+"Chronic myeloid leukemia (CML)","65-69 years","Female","2.815","0.063","2.692","2.942",1978,70264760
+"Chronic myeloid leukemia (CML)","70-74 years","Male and female","4.182","0.064","4.058","4.309",4307,102989851
+"Chronic myeloid leukemia (CML)","70-74 years","Male","5.289","0.106","5.083","5.501",2480,46889081
+"Chronic myeloid leukemia (CML)","70-74 years","Female","3.257","0.076","3.109","3.409",1827,56100770
+"Chronic myeloid leukemia (CML)","75-79 years","Male and female","5.123","0.082","4.965","5.286",3951,77119602
+"Chronic myeloid leukemia (CML)","75-79 years","Male","6.644","0.141","6.37","6.926",2218,33384419
+"Chronic myeloid leukemia (CML)","75-79 years","Female","3.962","0.095","3.778","4.154",1733,43735183
+"Chronic myeloid leukemia (CML)","80-84 years","Male and female","5.916","0.104","5.714","6.123",3245,54854210
+"Chronic myeloid leukemia (CML)","80-84 years","Male","7.907","0.19","7.54","8.288",1739,21992919
+"Chronic myeloid leukemia (CML)","80-84 years","Female","4.583","0.118","4.354","4.82",1506,32861291
+"Chronic myeloid leukemia (CML)","85-89 years","Male and female","6.438","0.14","6.167","6.717",2127,33038957
+"Chronic myeloid leukemia (CML)","85-89 years","Male","8.459","0.268","7.942","9",999,11810198
+"Chronic myeloid leukemia (CML)","85-89 years","Female","5.314","0.158","5.008","5.633",1128,21228759
+"Chronic myeloid leukemia (CML)","90+ years","Male and female","5.922","0.175","5.584","6.274",1151,19437568
+"Chronic myeloid leukemia (CML)","90+ years","Male","8.739","0.394","7.983","9.547",491,5618381
+"Chronic myeloid leukemia (CML)","90+ years","Female","4.776","0.186","4.419","5.155",660,13819187
+"Chronic myeloid leukemia (CML)","Unknown","Male and female","~","~","~","~",0,0
+"Chronic myeloid leukemia (CML)","Unknown","Male","~","~","~","~",0,0
+"Chronic myeloid leukemia (CML)","Unknown","Female","~","~","~","~",0,0
+"Multiple myeloma","00 years","Male and female","0.005","0.003","0.001","0.017",2,43061201
+"Multiple myeloma","00 years","Male","0.009","0.006","0.001","0.033",2,22011981
+"Multiple myeloma","00 years","Female","0","~","0","0.018",0,21049220
+"Multiple myeloma","01-04 years","Male and female","0.001","0.001","0","0.003",1,172923682
+"Multiple myeloma","01-04 years","Male","0.001","0.001","0","0.006",1,88392817
+"Multiple myeloma","01-04 years","Female","0","~","0","0.004",0,84530865
+"Multiple myeloma","05-09 years","Male and female","0.001","0.001","0","0.003",2,219155625
+"Multiple myeloma","05-09 years","Male","0.002","0.001","0","0.006",2,112012583
+"Multiple myeloma","05-09 years","Female","0","~","0","0.003",0,107143042
+"Multiple myeloma","10-14 years","Male and female","0.001","0.001","0","0.004",3,228557404
+"Multiple myeloma","10-14 years","Male","0","~","0","0.003",0,116939349
+"Multiple myeloma","10-14 years","Female","0.003","0.002","0.001","0.008",3,111618055
+"Multiple myeloma","15-19 years","Male and female","0.005","0.001","0.002","0.009",11,229160336
+"Multiple myeloma","15-19 years","Male","0.006","0.002","0.002","0.012",7,117683875
+"Multiple myeloma","15-19 years","Female","0.004","0.002","0.001","0.009",4,111476461
+"Multiple myeloma","20-24 years","Male and female","0.021","0.003","0.016","0.028",49,229290703
+"Multiple myeloma","20-24 years","Male","0.028","0.005","0.019","0.039",33,117600125
+"Multiple myeloma","20-24 years","Female","0.014","0.004","0.008","0.023",16,111690578
+"Multiple myeloma","25-29 years","Male and female","0.074","0.006","0.064","0.086",172,231301985
+"Multiple myeloma","25-29 years","Male","0.079","0.008","0.063","0.096",92,117171061
+"Multiple myeloma","25-29 years","Female","0.07","0.008","0.056","0.087",80,114130924
+"Multiple myeloma","30-34 years","Male and female","0.284","0.011","0.262","0.306",653,230073908
+"Multiple myeloma","30-34 years","Male","0.334","0.017","0.301","0.369",387,115938128
+"Multiple myeloma","30-34 years","Female","0.233","0.014","0.206","0.263",266,114135780
+"Multiple myeloma","35-39 years","Male and female","0.809","0.019","0.773","0.847",1851,228762701
+"Multiple myeloma","35-39 years","Male","0.867","0.027","0.814","0.923",995,114709436
+"Multiple myeloma","35-39 years","Female","0.751","0.026","0.701","0.803",856,114053265
+"Multiple myeloma","40-44 years","Male and female","1.868","0.029","1.812","1.925",4258,227960237
+"Multiple myeloma","40-44 years","Male","2.02","0.042","1.938","2.104",2295,113631501
+"Multiple myeloma","40-44 years","Female","1.717","0.039","1.642","1.795",1963,114328736
+"Multiple myeloma","45-49 years","Male and female","3.781","0.041","3.701","3.862",8507,224982270
+"Multiple myeloma","45-49 years","Male","4.139","0.061","4.02","4.26",4620,111622077
+"Multiple myeloma","45-49 years","Female","3.429","0.055","3.322","3.538",3887,113360193
+"Multiple myeloma","50-54 years","Male and female","6.764","0.056","6.655","6.875",14663,216770042
+"Multiple myeloma","50-54 years","Male","7.635","0.085","7.47","7.802",8158,106853315
+"Multiple myeloma","50-54 years","Female","5.918","0.073","5.775","6.064",6505,109916727
+"Multiple myeloma","55-59 years","Male and female","10.965","0.075","10.819","11.112",21620,197177690
+"Multiple myeloma","55-59 years","Male","12.789","0.115","12.564","13.017",12299,96171628
+"Multiple myeloma","55-59 years","Female","9.228","0.096","9.042","9.417",9321,101006062
+"Multiple myeloma","60-64 years","Male and female","16.858","0.101","16.662","17.057",28005,166118894
+"Multiple myeloma","60-64 years","Male","19.883","0.158","19.575","20.195",15886,79896239
+"Multiple myeloma","60-64 years","Female","14.055","0.128","13.806","14.308",12119,86222655
+"Multiple myeloma","65-69 years","Male and female","25.067","0.137","24.798","25.337",33251,132650888
+"Multiple myeloma","65-69 years","Male","30.191","0.22","29.761","30.625",18835,62386128
+"Multiple myeloma","65-69 years","Female","20.517","0.171","20.183","20.854",14416,70264760
+"Multiple myeloma","70-74 years","Male and female","32.739","0.178","32.391","33.09",33718,102989851
+"Multiple myeloma","70-74 years","Male","39.954","0.292","39.384","40.53",18734,46889081
+"Multiple myeloma","70-74 years","Female","26.709","0.218","26.283","27.14",14984,56100770
+"Multiple myeloma","75-79 years","Male and female","40.712","0.23","40.263","41.165",31397,77119602
+"Multiple myeloma","75-79 years","Male","50.724","0.39","49.963","51.494",16934,33384419
+"Multiple myeloma","75-79 years","Female","33.069","0.275","32.533","33.613",14463,43735183
+"Multiple myeloma","80-84 years","Male and female","45.045","0.287","44.485","45.61",24709,54854210
+"Multiple myeloma","80-84 years","Male","58.064","0.514","57.061","59.08",12770,21992919
+"Multiple myeloma","80-84 years","Female","36.332","0.333","35.683","36.989",11939,32861291
+"Multiple myeloma","85-89 years","Male and female","44.099","0.365","43.386","44.821",14570,33038957
+"Multiple myeloma","85-89 years","Male","60.888","0.718","59.489","62.312",7191,11810198
+"Multiple myeloma","85-89 years","Female","34.759","0.405","33.971","35.562",7379,21228759
+"Multiple myeloma","90+ years","Male and female","30.153","0.394","29.386","30.935",5861,19437568
+"Multiple myeloma","90+ years","Male","45.885","0.904","44.131","47.691",2578,5618381
+"Multiple myeloma","90+ years","Female","23.757","0.415","22.951","24.584",3283,13819187
+"Multiple myeloma","Unknown","Male and female","~","~","~","~",0,0
+"Multiple myeloma","Unknown","Male","~","~","~","~",0,0
+"Multiple myeloma","Unknown","Female","~","~","~","~",0,0
+"Soft tissue sarcomas","00 years","Male and female","0.372","0.029","0.316","0.434",160,43061201
+"Soft tissue sarcomas","00 years","Male","0.427","0.044","0.345","0.523",94,22011981
+"Soft tissue sarcomas","00 years","Female","0.314","0.039","0.243","0.399",66,21049220
+"Soft tissue sarcomas","01-04 years","Male and female","0.348","0.014","0.321","0.377",602,172923682
+"Soft tissue sarcomas","01-04 years","Male","0.389","0.021","0.349","0.433",344,88392817
+"Soft tissue sarcomas","01-04 years","Female","0.305","0.019","0.269","0.345",258,84530865
+"Soft tissue sarcomas","05-09 years","Male and female","0.257","0.011","0.236","0.279",563,219155625
+"Soft tissue sarcomas","05-09 years","Male","0.284","0.016","0.254","0.317",318,112012583
+"Soft tissue sarcomas","05-09 years","Female","0.229","0.015","0.201","0.259",245,107143042
+"Soft tissue sarcomas","10-14 years","Male and female","0.345","0.012","0.321","0.37",788,228557404
+"Soft tissue sarcomas","10-14 years","Male","0.362","0.018","0.328","0.398",423,116939349
+"Soft tissue sarcomas","10-14 years","Female","0.327","0.017","0.294","0.362",365,111618055
+"Soft tissue sarcomas","15-19 years","Male and female","0.458","0.014","0.431","0.487",1050,229160336
+"Soft tissue sarcomas","15-19 years","Male","0.509","0.021","0.469","0.551",599,117683875
+"Soft tissue sarcomas","15-19 years","Female","0.405","0.019","0.368","0.444",451,111476461
+"Soft tissue sarcomas","20-24 years","Male and female","0.511","0.015","0.482","0.541",1172,229290703
+"Soft tissue sarcomas","20-24 years","Male","0.563","0.022","0.521","0.607",662,117600125
+"Soft tissue sarcomas","20-24 years","Female","0.457","0.02","0.418","0.498",510,111690578
+"Soft tissue sarcomas","25-29 years","Male and female","0.592","0.016","0.561","0.624",1369,231301985
+"Soft tissue sarcomas","25-29 years","Male","0.67","0.024","0.624","0.719",785,117171061
+"Soft tissue sarcomas","25-29 years","Female","0.512","0.021","0.471","0.555",584,114130924
+"Soft tissue sarcomas","30-34 years","Male and female","0.81","0.019","0.774","0.848",1864,230073908
+"Soft tissue sarcomas","30-34 years","Male","0.917","0.028","0.863","0.974",1063,115938128
+"Soft tissue sarcomas","30-34 years","Female","0.702","0.025","0.654","0.752",801,114135780
+"Soft tissue sarcomas","35-39 years","Male and female","0.988","0.021","0.948","1.03",2260,228762701
+"Soft tissue sarcomas","35-39 years","Male","1.082","0.031","1.023","1.144",1241,114709436
+"Soft tissue sarcomas","35-39 years","Female","0.893","0.028","0.839","0.95",1019,114053265
+"Soft tissue sarcomas","40-44 years","Male and female","1.299","0.024","1.253","1.347",2962,227960237
+"Soft tissue sarcomas","40-44 years","Male","1.456","0.036","1.387","1.528",1655,113631501
+"Soft tissue sarcomas","40-44 years","Female","1.143","0.032","1.082","1.207",1307,114328736
+"Soft tissue sarcomas","45-49 years","Male and female","1.672","0.027","1.619","1.726",3761,224982270
+"Soft tissue sarcomas","45-49 years","Male","1.829","0.04","1.751","1.91",2042,111622077
+"Soft tissue sarcomas","45-49 years","Female","1.516","0.037","1.446","1.59",1719,113360193
+"Soft tissue sarcomas","50-54 years","Male and female","2.177","0.032","2.115","2.24",4719,216770042
+"Soft tissue sarcomas","50-54 years","Male","2.412","0.048","2.319","2.507",2577,106853315
+"Soft tissue sarcomas","50-54 years","Female","1.949","0.042","1.867","2.033",2142,109916727
+"Soft tissue sarcomas","55-59 years","Male and female","2.762","0.037","2.69","2.837",5447,197177690
+"Soft tissue sarcomas","55-59 years","Male","3.188","0.058","3.076","3.303",3066,96171628
+"Soft tissue sarcomas","55-59 years","Female","2.357","0.048","2.264","2.454",2381,101006062
+"Soft tissue sarcomas","60-64 years","Male and female","3.552","0.046","3.462","3.644",5901,166118894
+"Soft tissue sarcomas","60-64 years","Male","4.274","0.073","4.132","4.42",3415,79896239
+"Soft tissue sarcomas","60-64 years","Female","2.883","0.058","2.771","2.999",2486,86222655
+"Soft tissue sarcomas","65-69 years","Male and female","4.534","0.058","4.42","4.65",6014,132650888
+"Soft tissue sarcomas","65-69 years","Male","5.53","0.094","5.347","5.718",3450,62386128
+"Soft tissue sarcomas","65-69 years","Female","3.649","0.072","3.509","3.793",2564,70264760
+"Soft tissue sarcomas","70-74 years","Male and female","5.651","0.074","5.507","5.798",5820,102989851
+"Soft tissue sarcomas","70-74 years","Male","7.27","0.125","7.028","7.519",3409,46889081
+"Soft tissue sarcomas","70-74 years","Female","4.298","0.088","4.128","4.473",2411,56100770
+"Soft tissue sarcomas","75-79 years","Male and female","6.923","0.095","6.739","7.111",5339,77119602
+"Soft tissue sarcomas","75-79 years","Male","9.241","0.166","8.918","9.573",3085,33384419
+"Soft tissue sarcomas","75-79 years","Female","5.154","0.109","4.943","5.371",2254,43735183
+"Soft tissue sarcomas","80-84 years","Male and female","8.025","0.121","7.79","8.266",4402,54854210
+"Soft tissue sarcomas","80-84 years","Male","11.413","0.228","10.971","11.868",2510,21992919
+"Soft tissue sarcomas","80-84 years","Female","5.758","0.132","5.501","6.023",1892,32861291
+"Soft tissue sarcomas","85-89 years","Male and female","8.75","0.163","8.434","9.075",2891,33038957
+"Soft tissue sarcomas","85-89 years","Male","13.785","0.342","13.123","14.471",1628,11810198
+"Soft tissue sarcomas","85-89 years","Female","5.949","0.167","5.626","6.287",1263,21228759
+"Soft tissue sarcomas","90+ years","Male and female","7.882","0.201","7.492","8.286",1532,19437568
+"Soft tissue sarcomas","90+ years","Male","12.815","0.478","11.896","13.786",720,5618381
+"Soft tissue sarcomas","90+ years","Female","5.876","0.206","5.479","6.294",812,13819187
+"Soft tissue sarcomas","Unknown","Male and female","~","~","~","~",0,0
+"Soft tissue sarcomas","Unknown","Male","~","~","~","~",0,0
+"Soft tissue sarcomas","Unknown","Female","~","~","~","~",0,0
